@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+wangli
+K 8
+svn:date
+V 27
+2016-03-08T03:09:32.554749Z
+K 7
+svn:log
+V 556
+ 2016-03-08 11:03 对联锁表程序进一步优化了，使程序运行时间由上版本的5min减至2min，使原来的程序运行时间的1/8,此版本主要优化了：
+1.将搜索进路时访问数据库的操作改为访问内存，修改了Znsxt类中的GetpathGuidaoAndxhj()和GetOnlineDaochabyXdesc和GetOnlineDaochabyXAsc函数，将访问数据库操作放在GuidaoNode类中相应的函数里；
+2.在GuidaoNode中新增查询轨道线类型函数FindLineType（）,进一步减少访问数据库操作。
+程序还有进一步优化的空间
+END

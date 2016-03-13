@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+wangli
+K 8
+svn:date
+V 27
+2016-02-19T07:31:15.592000Z
+K 7
+svn:log
+V 170
+  2016-02-19 15:28 在平面图和双线图中增加了警冲标和车档，增加了字体设置，完善了DoubleToCString函数小数点第三位不正确的现象。 
+END

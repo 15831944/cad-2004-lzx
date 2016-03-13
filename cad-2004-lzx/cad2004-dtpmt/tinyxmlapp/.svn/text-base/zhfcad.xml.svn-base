@@ -1,0 +1,264 @@
+<?xml version="1.0" ?>
+<ZhfCAD>
+    <!--Settings for ZhfCAD-->
+    <XhTk>
+        <!--Settings for XhTk-->
+        <XhTkPalette0 PaletteDefaultPath="xhj\接车">
+            <File0 FilePath="C:\block_zhf\support\xhj\接车\XHJ_LJ_115_A_0_Y_H_0.dwg" Name="XHJ_LJ_115_A_0_Y_H_0" />
+            <File1 FilePath="C:\block_zhf\support\xhj\接车\XHJ_LJ_115_A_0_Z_H_0.dwg" Name="XHJ_LJ_115_A_0_Z_H_0" />
+            <File2 FilePath="C:\block_zhf\support\xhj\接车\XHJ_LJ_115_G_0_Y_H_0.dwg" Name="XHJ_LJ_115_G_0_Y_H_0" />
+            <File3 FilePath="C:\block_zhf\support\xhj\接车\XHJ_LJ_115_G_0_Z_H_0.dwg" Name="XHJ_LJ_115_G_0_Z_H_0" />
+            <File4 FilePath="C:\block_zhf\support\xhj\接车\XHJ_LJ_116_A_0_Y_H_0.dwg" Name="XHJ_LJ_116_A_0_Y_H_0" />
+            <File5 FilePath="C:\block_zhf\support\xhj\接车\XHJ_LJ_116_A_0_Z_H_0.dwg" Name="XHJ_LJ_116_A_0_Z_H_0" />
+            <File6 FilePath="C:\block_zhf\support\xhj\接车\XHJ_LJ_116_G_0_Y_H_0.dwg" Name="XHJ_LJ_116_G_0_Y_H_0" />
+            <File7 FilePath="C:\block_zhf\support\xhj\接车\XHJ_LJ_116_G_0_Z_H_0.dwg" Name="XHJ_LJ_116_G_0_Z_H_0" />
+            <File8 FilePath="C:\block_zhf\support\xhj\接车\XHJ_LJ_207_A_0_Z_H_0.dwg" Name="XHJ_LJ_207_A_0_Z_H_0" />
+        </XhTkPalette0>
+        <XhTkPalette1 PaletteDefaultPath="xhj\发车">
+            <File0 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_105_A_0_Z_H_0.dwg" Name="XHJ_LF_105_A_0_Z_H_0" />
+            <File1 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_105_G_0_Z_H_0.dwg" Name="XHJ_LF_105_G_0_Z_H_0" />
+            <File2 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_106_A_0_Z_H_0.dwg" Name="XHJ_LF_106_A_0_Z_H_0" />
+            <File3 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_106_G_0_Z_H_0.dwg" Name="XHJ_LF_106_G_0_Z_H_0" />
+            <File4 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_107_A_0_Z_H_0.dwg" Name="XHJ_LF_107_A_0_Z_H_0" />
+            <File5 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_107_G_0_Z_H_0.dwg" Name="XHJ_LF_107_G_0_Z_H_0" />
+            <File6 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_108_A_0_Z_H_0.dwg" Name="XHJ_LF_108_A_0_Z_H_0" />
+            <File7 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_108_G_0_Z_H_0.dwg" Name="XHJ_LF_108_G_0_Z_H_0" />
+            <File8 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_109_A_0_Z_H_0.dwg" Name="XHJ_LF_109_A_0_Z_H_0" />
+            <File9 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_110_A_0_Z_H_0.dwg" Name="XHJ_LF_110_A_0_Z_H_0" />
+            <File10 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_111_A_0_Z_H_0.dwg" Name="XHJ_LF_111_A_0_Z_H_0" />
+            <File11 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_111_G_0_Z_H_0.dwg" Name="XHJ_LF_111_G_0_Z_H_0" />
+            <File12 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_112-TF_G_0_Z_H_0.dwg" Name="XHJ_LF_112-TF_G_0_Z_H_0" />
+            <File13 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_112_A_0_Z_H_0.dwg" Name="XHJ_LF_112_A_0_Z_H_0" />
+            <File14 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_112_G_0_Z_H_0.dwg" Name="XHJ_LF_112_G_0_Z_H_0" />
+            <File15 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_113_A_0_Z_H_0.dwg" Name="XHJ_LF_113_A_0_Z_H_0" />
+            <File16 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_113_G_0_Z_H_0.dwg" Name="XHJ_LF_113_G_0_Z_H_0" />
+            <File17 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_114_A_0_Z_H_0.dwg" Name="XHJ_LF_114_A_0_Z_H_0" />
+            <File18 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_114_G_0_Z_H_0.dwg" Name="XHJ_LF_114_G_0_Z_H_0" />
+            <File19 FilePath="C:\block_zhf\support\xhj\发车\XHJ_LF_204-TF_G_0_Z_H_0.dwg" Name="XHJ_LF_204-TF_G_0_Z_H_0" />
+        </XhTkPalette1>
+        <XhTkPalette2 PaletteDefaultPath="xhj\发车(带表示器)">
+            <File0 FilePath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_106_A_1_Z_H_0.dwg" Name="XHJ_LF_106_A_1_Z_H_0" />
+            <File1 FilePath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_106_A_3_Z_H_0.dwg" Name="XHJ_LF_106_A_3_Z_H_0" />
+            <File2 FilePath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_106_G_1_Z_H_0.dwg" Name="XHJ_LF_106_G_1_Z_H_0" />
+            <File3 FilePath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_A_1_Z_H_0.dwg" Name="XHJ_LF_112_A_1_Z_H_0" />
+            <File4 FilePath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_A_2_Z_H_0.dwg" Name="XHJ_LF_112_A_2_Z_H_0" />
+            <File5 FilePath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_A_3_Z_H_0.dwg" Name="XHJ_LF_112_A_3_Z_H_0" />
+            <File6 FilePath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_A_4_Z_H_0.dwg" Name="XHJ_LF_112_A_4_Z_H_0" />
+            <File7 FilePath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_G_1_Z_H_0.dwg" Name="XHJ_LF_112_G_1_Z_H_0" />
+            <File8 FilePath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_G_2_Z_H_0.dwg" Name="XHJ_LF_112_G_2_Z_H_0" />
+            <File9 FilePath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_G_3_Z_H_0.dwg" Name="XHJ_LF_112_G_3_Z_H_0" />
+            <File10 FilePath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_G_4_Z_H_0.dwg" Name="XHJ_LF_112_G_4_Z_H_0" />
+        </XhTkPalette2>
+        <XhTkPalette3 PaletteDefaultPath="xhj\调车">
+            <File0 FilePath="C:\block_zhf\support\xhj\调车\XHJ_DC_119_A_0_Z_A_0.dwg" Name="XHJ_DC_119_A_0_Z_A_0" />
+            <File1 FilePath="C:\block_zhf\support\xhj\调车\XHJ_DC_119_G_0_Z_A_0.dwg" Name="XHJ_DC_119_G_0_Z_A_0" />
+            <File2 FilePath="C:\block_zhf\support\xhj\调车\XHJ_DC_120_A_0_Z_H_0.dwg" Name="XHJ_DC_120_A_0_Z_H_0" />
+            <File3 FilePath="C:\block_zhf\support\xhj\调车\XHJ_DC_120_G_0_Z_H_0.dwg" Name="XHJ_DC_120_G_0_Z_H_0" />
+            <File4 FilePath="C:\block_zhf\support\xhj\调车\XHJ_DC_121_A_0_Z_H_0.dwg" Name="XHJ_DC_121_A_0_Z_H_0" />
+        </XhTkPalette3>
+        <XhTkPalette4 PaletteDefaultPath="xhj\预告">
+            <File0 FilePath="C:\block_zhf\support\xhj\预告\XHJ_YG_101_A_0_Z_U_0.dwg" Name="XHJ_YG_101_A_0_Z_U_0" />
+            <File1 FilePath="C:\block_zhf\support\xhj\预告\XHJ_YG_101_G_0_Z_U_0.dwg" Name="XHJ_YG_101_G_0_Z_U_0" />
+        </XhTkPalette4>
+        <XhTkPalette5 PaletteDefaultPath="xhj\通过">
+            <File0 FilePath="C:\block_zhf\support\xhj\通过\XHJ_TG_103_A_0_Z_LU_0.dwg" Name="XHJ_TG_103_A_0_Z_LU_0" />
+            <File1 FilePath="C:\block_zhf\support\xhj\通过\XHJ_TG_103_G_0_Z_LU_0.dwg" Name="XHJ_TG_103_G_0_Z_LU_0" />
+            <File2 FilePath="C:\block_zhf\support\xhj\通过\XHJ_TG_103_G_0_Z_L_0.dwg" Name="XHJ_TG_103_G_0_Z_L_0" />
+            <File3 FilePath="C:\block_zhf\support\xhj\通过\XHJ_TG_103_G_0_Z_U_0.dwg" Name="XHJ_TG_103_G_0_Z_U_0" />
+            <File4 FilePath="C:\block_zhf\support\xhj\通过\XHJ_TG_103_G_1_Z_LU_0.dwg" Name="XHJ_TG_103_G_1_Z_LU_0" />
+        </XhTkPalette5>
+        <XhTkPalette6 PaletteDefaultPath="xhj\复示">
+            <File0 FilePath="C:\block_zhf\support\xhj\复示\XHJ_FS_122_A_0_Z_0_0.dwg" Name="XHJ_FS_122_A_0_Z_0_0" />
+            <File1 FilePath="C:\block_zhf\support\xhj\复示\XHJ_FS_122_G_0_Z_0_0.dwg" Name="XHJ_FS_122_G_0_Z_0_0" />
+            <File2 FilePath="C:\block_zhf\support\xhj\复示\XHJ_FS_123_A_0_Z_0_0.dwg" Name="XHJ_FS_123_A_0_Z_0_0" />
+            <File3 FilePath="C:\block_zhf\support\xhj\复示\XHJ_FS_123_G_0_Z_0_0.dwg" Name="XHJ_FS_123_G_0_Z_0_0" />
+            <File4 FilePath="C:\block_zhf\support\xhj\复示\XHJ_FS_124_G_0_Z_0_0.dwg" Name="XHJ_FS_124_G_0_Z_0_0" />
+            <File5 FilePath="C:\block_zhf\support\xhj\复示\XHJ_FS_126_G_0_Z_0_0.dwg" Name="XHJ_FS_126_G_0_Z_0_0" />
+        </XhTkPalette6>
+        <XhTkPalette7 PaletteDefaultPath="xhj\地铁">
+            <File0 FilePath="C:\block_zhf\support\xhj\地铁\XHJ_DT_BA_A_Y_A_0.dwg" Name="XHJ_DT_BA_A_Y_A_0" />
+            <File1 FilePath="C:\block_zhf\support\xhj\地铁\XHJ_DT_BH_A_Y_A_0.dwg" Name="XHJ_DT_BH_A_Y_A_0" />
+            <File2 FilePath="C:\block_zhf\support\xhj\地铁\XHJ_DT_H_A_Y_H_0.dwg" Name="XHJ_DT_H_A_Y_H_0" />
+            <File3 FilePath="C:\block_zhf\support\xhj\地铁\XHJ_DT_H_G_Y_H_0.dwg" Name="XHJ_DT_H_G_Y_H_0" />
+            <File4 FilePath="C:\block_zhf\support\xhj\地铁\XHJ_DT_LBH_A_Y_H_0.dwg" Name="XHJ_DT_LBH_A_Y_H_0" />
+            <File5 FilePath="C:\block_zhf\support\xhj\地铁\XHJ_DT_LH_A_Y_H_0.dwg" Name="XHJ_DT_LH_A_Y_H_0" />
+            <File6 FilePath="C:\block_zhf\support\xhj\地铁\XHJ_DT_LH_G_Y_H_0.dwg" Name="XHJ_DT_LH_G_Y_H_0" />
+            <File7 FilePath="C:\block_zhf\support\xhj\地铁\XHJ_DT_UBH_A_Y_H_0.dwg" Name="XHJ_DT_UBH_A_Y_H_0" />
+            <File8 FilePath="C:\block_zhf\support\xhj\地铁\XHJ_DT_ULH_A_Y_H_0.dwg" Name="XHJ_DT_ULH_A_Y_H_0" />
+            <File9 FilePath="C:\block_zhf\support\xhj\地铁\XHJ_DT_ULH_G_Y_H_0.dwg" Name="XHJ_DT_ULH_G_Y_H_0" />
+        </XhTkPalette7>
+        <XhTkPalette8 PaletteDefaultPath="dc">
+            <File0 FilePath="C:\block_zhf\support\dc\DC_000.dwg" Name="DC_000" />
+            <File1 FilePath="C:\block_zhf\support\dc\DC_001.dwg" Name="DC_001" />
+            <File2 FilePath="C:\block_zhf\support\dc\DC_002.dwg" Name="DC_002" />
+            <File3 FilePath="C:\block_zhf\support\dc\DC_003.dwg" Name="DC_003" />
+            <File4 FilePath="C:\block_zhf\support\dc\DC_004.dwg" Name="DC_004" />
+            <File5 FilePath="C:\block_zhf\support\dc\DC_005.dwg" Name="DC_005" />
+            <File6 FilePath="C:\block_zhf\support\dc\DC_006.dwg" Name="DC_006" />
+            <File7 FilePath="C:\block_zhf\support\dc\DC_007.dwg" Name="DC_007" />
+            <File8 FilePath="C:\block_zhf\support\dc\DC_008.dwg" Name="DC_008" />
+            <File9 FilePath="C:\block_zhf\support\dc\DC_009.dwg" Name="DC_009" />
+            <File10 FilePath="C:\block_zhf\support\dc\DC_010.dwg" Name="DC_010" />
+            <File11 FilePath="C:\block_zhf\support\dc\DC_011.dwg" Name="DC_011" />
+            <File12 FilePath="C:\block_zhf\support\dc\DC_012.dwg" Name="DC_012" />
+            <File13 FilePath="C:\block_zhf\support\dc\DC_013.dwg" Name="DC_013" />
+            <File14 FilePath="C:\block_zhf\support\dc\DC_014.dwg" Name="DC_014" />
+        </XhTkPalette8>
+        <XhTkPalette9 PaletteDefaultPath="jyj">
+            <File0 FilePath="C:\block_zhf\support\jyj\JYJ_CX_0.dwg" Name="JYJ_CX_0" />
+            <File1 FilePath="C:\block_zhf\support\jyj\JYJ_CX_1.dwg" Name="JYJ_CX_1" />
+            <File2 FilePath="C:\block_zhf\support\jyj\JYJ_DQ_0.dwg" Name="JYJ_DQ_0" />
+            <File3 FilePath="C:\block_zhf\support\jyj\JYJ_DT_0.dwg" Name="JYJ_DT_0" />
+            <File4 FilePath="C:\block_zhf\support\jyj\JYJ_DT_1.dwg" Name="JYJ_DT_1" />
+            <File5 FilePath="C:\block_zhf\support\jyj\JYJ_JX_0.dwg" Name="JYJ_JX_0" />
+            <File6 FilePath="C:\block_zhf\support\jyj\JYJ_PT_0.dwg" Name="JYJ_PT_0" />
+            <File7 FilePath="C:\block_zhf\support\jyj\JYJ_PT_1.dwg" Name="JYJ_PT_1" />
+        </XhTkPalette9>
+        <XhTkPalette10 PaletteDefaultPath="box">
+            <File0 FilePath="C:\block_zhf\support\box\BOX_E_0.dwg" Name="BOX_E_0" />
+            <File1 FilePath="C:\block_zhf\support\box\BOX_FSD_0-F_0.dwg" Name="BOX_FSD_0-F_0" />
+            <File2 FilePath="C:\block_zhf\support\box\BOX_FSD_0-S_0.dwg" Name="BOX_FSD_0-S_0" />
+            <File3 FilePath="C:\block_zhf\support\box\BOX_FSD_F-0_0.dwg" Name="BOX_FSD_F-0_0" />
+            <File4 FilePath="C:\block_zhf\support\box\BOX_FSD_F-F_0.dwg" Name="BOX_FSD_F-F_0" />
+            <File5 FilePath="C:\block_zhf\support\box\BOX_FSD_F-S_0.dwg" Name="BOX_FSD_F-S_0" />
+            <File6 FilePath="C:\block_zhf\support\box\BOX_FSD_F_0.dwg" Name="BOX_FSD_F_0" />
+            <File7 FilePath="C:\block_zhf\support\box\BOX_FSD_F_1.dwg" Name="BOX_FSD_F_1" />
+            <File8 FilePath="C:\block_zhf\support\box\BOX_FSD_S-0_0.dwg" Name="BOX_FSD_S-0_0" />
+            <File9 FilePath="C:\block_zhf\support\box\BOX_FSD_S-F_0.dwg" Name="BOX_FSD_S-F_0" />
+            <File10 FilePath="C:\block_zhf\support\box\BOX_FSD_S-S_0.dwg" Name="BOX_FSD_S-S_0" />
+            <File11 FilePath="C:\block_zhf\support\box\BOX_FSD_S_0.dwg" Name="BOX_FSD_S_0" />
+            <File12 FilePath="C:\block_zhf\support\box\BOX_FSD_S_1.dwg" Name="BOX_FSD_S_1" />
+            <File13 FilePath="C:\block_zhf\support\box\BOX_HF_1.dwg" Name="BOX_HF_1" />
+            <File14 FilePath="C:\block_zhf\support\box\BOX_HZ_0.dwg" Name="BOX_HZ_0" />
+            <File15 FilePath="C:\block_zhf\support\box\BOX_HZ_ZZJ_0.dwg" Name="BOX_HZ_ZZJ_0" />
+            <File16 FilePath="C:\block_zhf\support\box\BOX_XB_0.dwg" Name="BOX_XB_0" />
+        </XhTkPalette10>
+        <XhTkPalette11 PaletteDefaultPath="dltb">
+            <File0 FilePath="C:\block_zhf\support\dltb\AN1.dwg" Name="AN1" />
+            <File1 FilePath="C:\block_zhf\support\dltb\AN2.dwg" Name="AN2" />
+            <File2 FilePath="C:\block_zhf\support\dltb\AN3.dwg" Name="AN3" />
+            <File3 FilePath="C:\block_zhf\support\dltb\AN4.dwg" Name="AN4" />
+            <File4 FilePath="C:\block_zhf\support\dltb\Bracket.dwg" Name="Bracket" />
+            <File5 FilePath="C:\block_zhf\support\dltb\Bulb1.dwg" Name="Bulb1" />
+            <File6 FilePath="C:\block_zhf\support\dltb\Bulb2.dwg" Name="Bulb2" />
+            <File7 FilePath="C:\block_zhf\support\dltb\BYQ1.dwg" Name="BYQ1" />
+            <File8 FilePath="C:\block_zhf\support\dltb\BYQ2.dwg" Name="BYQ2" />
+            <File9 FilePath="C:\block_zhf\support\dltb\DianLing-AC.dwg" Name="DianLing-AC" />
+            <File10 FilePath="C:\block_zhf\support\dltb\DianLing-DC.dwg" Name="DianLing-DC" />
+            <File11 FilePath="C:\block_zhf\support\dltb\Diode1.dwg" Name="Diode1" />
+            <File12 FilePath="C:\block_zhf\support\dltb\Diode2.dwg" Name="Diode2" />
+            <File13 FilePath="C:\block_zhf\support\dltb\F.dwg" Name="F" />
+            <File14 FilePath="C:\block_zhf\support\dltb\KF.dwg" Name="KF" />
+            <File15 FilePath="C:\block_zhf\support\dltb\KFZ.dwg" Name="KFZ" />
+            <File16 FilePath="C:\block_zhf\support\dltb\KZ.dwg" Name="KZ" />
+            <File17 FilePath="C:\block_zhf\support\dltb\KZY.dwg" Name="KZY" />
+            <File18 FilePath="C:\block_zhf\support\dltb\Note.dwg" Name="Note" />
+            <File19 FilePath="C:\block_zhf\support\dltb\RC.dwg" Name="RC" />
+            <File20 FilePath="C:\block_zhf\support\dltb\RelayF.dwg" Name="RelayF" />
+            <File21 FilePath="C:\block_zhf\support\dltb\S1.dwg" Name="S1" />
+            <File22 FilePath="C:\block_zhf\support\dltb\S2.dwg" Name="S2" />
+            <File23 FilePath="C:\block_zhf\support\dltb\S3.dwg" Name="S3" />
+            <File24 FilePath="C:\block_zhf\support\dltb\WZ1.dwg" Name="WZ1" />
+            <File25 FilePath="C:\block_zhf\support\dltb\WZ2.dwg" Name="WZ2" />
+            <File26 FilePath="C:\block_zhf\support\dltb\WZ3.dwg" Name="WZ3" />
+            <File27 FilePath="C:\block_zhf\support\dltb\Z.dwg" Name="Z" />
+            <File28 FilePath="C:\block_zhf\support\dltb\ZG-42.dwg" Name="ZG-42" />
+        </XhTkPalette11>
+        <XhTkPalette12 PaletteDefaultPath="jdq">
+            <File0 FilePath="C:\block_zhf\support\jdq\110.dwg" Name="110" />
+            <File1 FilePath="C:\block_zhf\support\jdq\111.dwg" Name="111" />
+            <File2 FilePath="C:\block_zhf\support\jdq\112.dwg" Name="112" />
+            <File3 FilePath="C:\block_zhf\support\jdq\113.dwg" Name="113" />
+            <File4 FilePath="C:\block_zhf\support\jdq\114.dwg" Name="114" />
+            <File5 FilePath="C:\block_zhf\support\jdq\121.dwg" Name="121" />
+            <File6 FilePath="C:\block_zhf\support\jdq\122.dwg" Name="122" />
+            <File7 FilePath="C:\block_zhf\support\jdq\123.dwg" Name="123" />
+            <File8 FilePath="C:\block_zhf\support\jdq\124.dwg" Name="124" />
+            <File9 FilePath="C:\block_zhf\support\jdq\131.dwg" Name="131" />
+            <File10 FilePath="C:\block_zhf\support\jdq\132.dwg" Name="132" />
+            <File11 FilePath="C:\block_zhf\support\jdq\133.dwg" Name="133" />
+            <File12 FilePath="C:\block_zhf\support\jdq\134.dwg" Name="134" />
+            <File13 FilePath="C:\block_zhf\support\jdq\141.dwg" Name="141" />
+            <File14 FilePath="C:\block_zhf\support\jdq\142.dwg" Name="142" />
+            <File15 FilePath="C:\block_zhf\support\jdq\143.dwg" Name="143" />
+            <File16 FilePath="C:\block_zhf\support\jdq\144.dwg" Name="144" />
+            <File17 FilePath="C:\block_zhf\support\jdq\211.dwg" Name="211" />
+            <File18 FilePath="C:\block_zhf\support\jdq\212.dwg" Name="212" />
+            <File19 FilePath="C:\block_zhf\support\jdq\213.dwg" Name="213" />
+            <File20 FilePath="C:\block_zhf\support\jdq\214.dwg" Name="214" />
+            <File21 FilePath="C:\block_zhf\support\jdq\221.dwg" Name="221" />
+            <File22 FilePath="C:\block_zhf\support\jdq\222.dwg" Name="222" />
+            <File23 FilePath="C:\block_zhf\support\jdq\223.dwg" Name="223" />
+            <File24 FilePath="C:\block_zhf\support\jdq\224.dwg" Name="224" />
+            <File25 FilePath="C:\block_zhf\support\jdq\231.dwg" Name="231" />
+            <File26 FilePath="C:\block_zhf\support\jdq\232.dwg" Name="232" />
+            <File27 FilePath="C:\block_zhf\support\jdq\233.dwg" Name="233" />
+            <File28 FilePath="C:\block_zhf\support\jdq\234.dwg" Name="234" />
+            <File29 FilePath="C:\block_zhf\support\jdq\241.dwg" Name="241" />
+            <File30 FilePath="C:\block_zhf\support\jdq\242.dwg" Name="242" />
+            <File31 FilePath="C:\block_zhf\support\jdq\243.dwg" Name="243" />
+            <File32 FilePath="C:\block_zhf\support\jdq\244.dwg" Name="244" />
+            <File33 FilePath="C:\block_zhf\support\jdq\J01.dwg" Name="J01" />
+            <File34 FilePath="C:\block_zhf\support\jdq\J02.dwg" Name="J02" />
+            <File35 FilePath="C:\block_zhf\support\jdq\J03.dwg" Name="J03" />
+            <File36 FilePath="C:\block_zhf\support\jdq\J04.dwg" Name="J04" />
+            <File37 FilePath="C:\block_zhf\support\jdq\J05.dwg" Name="J05" />
+            <File38 FilePath="C:\block_zhf\support\jdq\J06.dwg" Name="J06" />
+            <File39 FilePath="C:\block_zhf\support\jdq\J07.dwg" Name="J07" />
+            <File40 FilePath="C:\block_zhf\support\jdq\J08.dwg" Name="J08" />
+            <File41 FilePath="C:\block_zhf\support\jdq\J09.dwg" Name="J09" />
+            <File42 FilePath="C:\block_zhf\support\jdq\RDGJ.dwg" Name="RDGJ" />
+        </XhTkPalette12>
+        <XhTkPalette13 PaletteDefaultPath="sign">
+            <File0 FilePath="C:\block_zhf\support\sign\SIGN_3.dwg" Name="SIGN_3" />
+            <File1 FilePath="C:\block_zhf\support\sign\SIGN_4.dwg" Name="SIGN_4" />
+            <File2 FilePath="C:\block_zhf\support\sign\SIGN_6.dwg" Name="SIGN_6" />
+        </XhTkPalette13>
+        <XhTkPalette14 PaletteDefaultPath="bg">
+            <File0 FilePath="C:\block_zhf\support\bg\BG_DCLX.dwg" Name="BG_DCLX" />
+            <File1 FilePath="C:\block_zhf\support\bg\BG_GUDAO.dwg" Name="BG_GUDAO" />
+            <File2 FilePath="C:\block_zhf\support\bg\BG_KZTPX.dwg" Name="BG_KZTPX" />
+        </XhTkPalette14>
+        <XhTkPalette15 PaletteDefaultPath="dz">
+            <File0 FilePath="C:\block_zhf\support\dz\DZ_00.dwg" Name="DZ_00" />
+            <File1 FilePath="C:\block_zhf\support\dz\DZ_01.dwg" Name="DZ_01" />
+            <File2 FilePath="C:\block_zhf\support\dz\DZ_XHL_0.dwg" Name="DZ_XHL_0" />
+        </XhTkPalette15>
+        <XhTkPalette16 PaletteDefaultPath="conti">
+            <File0 FilePath="C:\block_zhf\support\conti\conti_1.dwg" Name="conti_1" />
+            <File1 FilePath="C:\block_zhf\support\conti\conti_2.dwg" Name="conti_2" />
+            <File2 FilePath="C:\block_zhf\support\conti\conti_3.dwg" Name="conti_3" />
+            <File3 FilePath="C:\block_zhf\support\conti\conti_4.dwg" Name="conti_4" />
+        </XhTkPalette16>
+        <XhTkPalette17 PaletteDefaultPath="pmt">
+            <File0 FilePath="C:\block_zhf\support\pmt\Arrow1.dwg" Name="Arrow1" />
+            <File1 FilePath="C:\block_zhf\support\pmt\Arrow2.dwg" Name="Arrow2" />
+            <File2 FilePath="C:\block_zhf\support\pmt\Chair.dwg" Name="Chair" />
+            <File3 FilePath="C:\block_zhf\support\pmt\CRSC.dwg" Name="CRSC" />
+            <File4 FilePath="C:\block_zhf\support\pmt\FRAME_LEFT_0.dwg" Name="FRAME_LEFT_0" />
+            <File5 FilePath="C:\block_zhf\support\pmt\PMT_4DK.dwg" Name="PMT_4DK" />
+            <File6 FilePath="C:\block_zhf\support\pmt\PMT_4JT.dwg" Name="PMT_4JT" />
+            <File7 FilePath="C:\block_zhf\support\pmt\PMT_Arrow3.dwg" Name="PMT_Arrow3" />
+            <File8 FilePath="C:\block_zhf\support\pmt\PMT_CD_0.dwg" Name="PMT_CD_0" />
+            <File9 FilePath="C:\block_zhf\support\pmt\PMT_DIVIDE_0.dwg" Name="PMT_DIVIDE_0" />
+            <File10 FilePath="C:\block_zhf\support\pmt\PMT_DK.dwg" Name="PMT_DK" />
+            <File11 FilePath="C:\block_zhf\support\pmt\PMT_FX.dwg" Name="PMT_FX" />
+            <File12 FilePath="C:\block_zhf\support\pmt\PMT_HAN.dwg" Name="PMT_HAN" />
+            <File13 FilePath="C:\block_zhf\support\pmt\PMT_JCB.dwg" Name="PMT_JCB" />
+            <File14 FilePath="C:\block_zhf\support\pmt\PMT_JX.dwg" Name="PMT_JX" />
+            <File15 FilePath="C:\block_zhf\support\pmt\PMT_QIAO.dwg" Name="PMT_QIAO" />
+            <File16 FilePath="C:\block_zhf\support\pmt\PMT_STATION.dwg" Name="PMT_STATION" />
+            <File17 FilePath="C:\block_zhf\support\pmt\PMT_TG-DPL.dwg" Name="PMT_TG-DPL" />
+            <File18 FilePath="C:\block_zhf\support\pmt\PMT_TOXHL_HEADER.dwg" Name="PMT_TOXHL_HEADER" />
+            <File19 FilePath="C:\block_zhf\support\pmt\PMT_W_0_0.dwg" Name="PMT_W_0_0" />
+            <File20 FilePath="C:\block_zhf\support\pmt\PMT_XHL_1.dwg" Name="PMT_XHL_1" />
+            <File21 FilePath="C:\block_zhf\support\pmt\PMT_YDQ_0.dwg" Name="PMT_YDQ_0" />
+            <File22 FilePath="C:\block_zhf\support\pmt\PMT_YDQ_1.dwg" Name="PMT_YDQ_1" />
+            <File23 FilePath="C:\block_zhf\support\pmt\PMT_ZBS_1.dwg" Name="PMT_ZBS_1" />
+            <File24 FilePath="C:\block_zhf\support\pmt\PMT_ZT.dwg" Name="PMT_ZT" />
+        </XhTkPalette17>
+    </XhTk>
+    <DtTk>
+        <!--Settings for DtTk-->
+    </DtTk>
+</ZhfCAD>

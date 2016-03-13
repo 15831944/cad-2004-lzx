@@ -1,0 +1,27 @@
+#pragma once
+#include "StdAfx.h"
+#include "../blkuserdll/UserSystem.h"
+#include "../blkdll/MyAdo.h"
+
+class CXhjDataNode
+{
+public:
+	CXhjDataNode(void);
+	CXhjDataNode(long nHandleXhj);
+	CUserSystem m_sys ;
+	CADODatabase m_AdoDb ;
+	CADORecordset m_RecordSet ;
+	long m_nHandleXhj;//信号机句柄
+	CString m_strXhjName;//信号机名称
+	CString m_strBlockName;//信号机块名
+	long m_nHandleXhjLeftLine;//信号机左侧连接线
+	long m_nHandleXhjRightLine;//信号机右侧连接线
+	double m_dXhj_x;
+	int m_iToward;
+	virtual ~CXhjDataNode(void);
+	int GetXhjConLineRight( long nHandleXhj,long &nHandleLine);
+	int GetXhjConLineLeft( long nHandleXhj,long &nHandleLine);
+	void GetEntBlkNameByHandle( const long nHandle,CString &str_ent_name);
+	BOOL GetBlockPosition_X( long nHandle,double &point_x );
+	BOOL GetBlockToward( long nHandleXHJ ,int &iToward);
+};

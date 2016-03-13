@@ -1,0 +1,206 @@
+PLAIN
+K 12
+BuildLog.htm
+V 23
+file gl-1.0.r15/3255769
+END
+ENDREP
+id: gd-1.0.r16/64
+type: dir
+pred: gd-1.0.r15/3256437
+count: 3
+text: 16 0 51 51 0f36357617ad2509696b0418595a1850
+cpath: /tinyxmlapp/Debug
+copyroot: 0 /
+
+PLAIN
+K 5
+Debug
+V 17
+dir gd-1.0.r16/64
+K 10
+ReadMe.txt
+V 23
+file hf-1.0.r1/15978280
+K 3
+res
+V 22
+dir h5-1.0.r1/15977947
+K 10
+resource.h
+V 23
+file hj-1.0.r1/15978674
+K 10
+stdafx.cpp
+V 23
+file hd-1.0.r1/15978085
+K 8
+stdafx.h
+V 23
+file g8-1.0.r1/15972290
+K 14
+tinyxmlapp.aps
+V 23
+file gz-1.0.r1/15976375
+K 14
+tinyxmlapp.cpp
+V 23
+file gx-1.0.r1/15976109
+K 12
+tinyxmlapp.h
+V 23
+file hh-1.0.r1/15978477
+K 13
+tinyxmlapp.rc
+V 23
+file h3-1.0.r1/15976838
+K 17
+tinyxmlapp.vcproj
+V 23
+file h1-1.0.r1/15976634
+K 17
+tinyxmlappDlg.cpp
+V 23
+file hl-1.0.r1/15978869
+K 15
+tinyxmlappDlg.h
+V 23
+file gb-1.0.r1/15972483
+K 10
+zhfcad.xml
+V 23
+file hn-1.0.r1/15979073
+END
+ENDREP
+id: g7-1.0.r16/871
+type: dir
+pred: g7-1.0.r15/3257262
+count: 3
+text: 16 216 642 642 989f92f2643f109a43aae88d502f5b0f
+cpath: /tinyxmlapp
+copyroot: 0 /
+
+PLAIN
+K 10
+blkcad.ilk
+V 23
+file n5-1.0.r15/3262604
+K 11
+zhftool.ilk
+V 23
+file mz-1.0.r15/3262045
+K 9
+zncad.ilk
+V 23
+file n3-1.0.r15/3262324
+END
+ENDREP
+id: mt-1.0.r16/1173
+type: dir
+pred: mt-1.0.r15/3263296
+count: 15
+text: 16 1022 138 138 42ed3343c381b209bbbb0eb02e23211d
+cpath: /debug
+copyroot: 0 /
+
+PLAIN
+K 7
+acad.rx
+V 23
+file 5z-1.0.r1/15927414
+K 6
+blkcad
+V 22
+dir 61-1.0.r15/3249903
+K 6
+blkdll
+V 22
+dir ef-1.0.r15/3254308
+K 10
+blkuserdll
+V 22
+dir d5-1.0.r15/3252619
+K 5
+debug
+V 19
+dir mt-1.0.r16/1173
+K 7
+mygreta
+V 22
+dir n7-1.0.r15/3264088
+K 3
+tcl
+V 22
+dir bj-1.0.r15/3250999
+K 7
+tinyxml
+V 22
+dir fj-1.0.r15/3255342
+K 10
+tinyxmlapp
+V 18
+dir g7-1.0.r16/871
+K 5
+ugrid
+V 22
+dir nv-1.0.r15/3265262
+K 10
+zhfcad.ncb
+V 23
+file bh-1.0.r15/3250061
+K 10
+zhfcad.sln
+V 23
+file x7-1.0.r13/5996167
+K 10
+zhfcad.suo
+V 23
+file g5-1.0.r15/3255499
+K 7
+zhftool
+V 22
+dir hp-1.0.r15/3261886
+K 5
+zncad
+V 21
+dir 0-1.0.r15/3244572
+END
+ENDREP
+id: 0.0.r16/1943
+type: dir
+pred: 0.0.r15/3266045
+count: 16
+text: 16 1322 608 608 7400a8fcc72957d2120e6063bdc21ae9
+cpath: /
+copyroot: 0 /
+
+gj-1.0.r13/5985062 delete-file false false /tinyxmlapp/Debug/tinyxmlappDlg.obj
+
+3-2.0.r2/5841979 delete-file false false /debug/blkuserdll.dll
+
+1-2.0.r2/5842573 delete-file false false /debug/blkdll.dll
+
+gn-1.0.r13/5985583 delete-file false false /tinyxmlapp/Debug/tinyxmlapp.pdb
+
+mu-1.0.r2/5840220 delete-file false false /debug/blkuserdll.ilk
+
+gp-1.0.r13/5985872 delete-file false false /tinyxmlapp/Debug/vc70.idb
+
+mx-1.0.r2/5840500 delete-file false false /debug/blkdll.ilk
+
+gr-1.0.r1/15974599 delete-file false false /tinyxmlapp/Debug/tinyxmlapp.res
+
+gt-1.0.r13/5986158 delete-file false false /tinyxmlapp/Debug/tinyxmlapp.obj
+
+gv-1.0.r13/5986449 delete-file false false /tinyxmlapp/Debug/tinyxmlapp.pch
+
+4-2.0.r2/5841118 delete-file false false /debug/ugrid.dll
+
+ge-1.0.r13/5984491 delete-file false false /tinyxmlapp/Debug/stdafx.obj
+
+n1-1.0.r2/5841364 delete-file false false /debug/ugrid.ilk
+
+gh-1.0.r13/5984776 delete-file false false /tinyxmlapp/Debug/vc70.pdb
+
+
+1943 2081

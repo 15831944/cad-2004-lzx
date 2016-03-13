@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<ZhfCAD>
+    <!--Settings for ZhfCAD-->
+    <PaletteSet Name="大铁图库">
+        <Palette Name="接车" DefaultPath="xhj\接车" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\xhj\接车\XHJ_LJ_115_A_0_Y_H_0.dwg" ShowName="XHJ_LJ_115_A_0_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\接车\XHJ_LJ_115_A_0_Z_H_0.dwg" ShowName="XHJ_LJ_115_A_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\接车\XHJ_LJ_115_G_0_Y_H_0.dwg" ShowName="XHJ_LJ_115_G_0_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\接车\XHJ_LJ_115_G_0_Z_H_0.dwg" ShowName="XHJ_LJ_115_G_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\接车\XHJ_LJ_116_A_0_Y_H_0.dwg" ShowName="XHJ_LJ_116_A_0_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\接车\XHJ_LJ_116_A_0_Z_H_0.dwg" ShowName="XHJ_LJ_116_A_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\接车\XHJ_LJ_116_G_0_Y_H_0.dwg" ShowName="XHJ_LJ_116_G_0_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\接车\XHJ_LJ_116_G_0_Z_H_0.dwg" ShowName="XHJ_LJ_116_G_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\接车\XHJ_LJ_207_A_0_Z_H_0.dwg" ShowName="XHJ_LJ_207_A_0_Z_H_0" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="发车" DefaultPath="xhj\发车" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_105_A_0_Z_H_0.dwg" ShowName="XHJ_LF_105_A_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_105_G_0_Z_H_0.dwg" ShowName="XHJ_LF_105_G_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_106_A_0_Z_H_0.dwg" ShowName="XHJ_LF_106_A_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_106_G_0_Z_H_0.dwg" ShowName="XHJ_LF_106_G_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_107_A_0_Z_H_0.dwg" ShowName="XHJ_LF_107_A_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_107_G_0_Z_H_0.dwg" ShowName="XHJ_LF_107_G_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_108_A_0_Z_H_0.dwg" ShowName="XHJ_LF_108_A_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_108_G_0_Z_H_0.dwg" ShowName="XHJ_LF_108_G_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_109_A_0_Z_H_0.dwg" ShowName="XHJ_LF_109_A_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_110_A_0_Z_H_0.dwg" ShowName="XHJ_LF_110_A_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_111_A_0_Z_H_0.dwg" ShowName="XHJ_LF_111_A_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_111_G_0_Z_H_0.dwg" ShowName="XHJ_LF_111_G_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_112-TF_G_0_Z_H_0.dwg" ShowName="XHJ_LF_112-TF_G_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_112_A_0_Z_H_0.dwg" ShowName="XHJ_LF_112_A_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_112_G_0_Z_H_0.dwg" ShowName="XHJ_LF_112_G_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_113_A_0_Z_H_0.dwg" ShowName="XHJ_LF_113_A_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_113_G_0_Z_H_0.dwg" ShowName="XHJ_LF_113_G_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_114_A_0_Z_H_0.dwg" ShowName="XHJ_LF_114_A_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_114_G_0_Z_H_0.dwg" ShowName="XHJ_LF_114_G_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车\XHJ_LF_204-TF_G_0_Z_H_0.dwg" ShowName="XHJ_LF_204-TF_G_0_Z_H_0" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="发车(带表示器)" DefaultPath="xhj\发车(带表示器)" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_106_A_1_Z_H_0.dwg" ShowName="XHJ_LF_106_A_1_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_106_A_3_Z_H_0.dwg" ShowName="XHJ_LF_106_A_3_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_106_G_1_Z_H_0.dwg" ShowName="XHJ_LF_106_G_1_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_A_1_Z_H_0.dwg" ShowName="XHJ_LF_112_A_1_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_A_2_Z_H_0.dwg" ShowName="XHJ_LF_112_A_2_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_A_3_Z_H_0.dwg" ShowName="XHJ_LF_112_A_3_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_A_4_Z_H_0.dwg" ShowName="XHJ_LF_112_A_4_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_G_1_Z_H_0.dwg" ShowName="XHJ_LF_112_G_1_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_G_2_Z_H_0.dwg" ShowName="XHJ_LF_112_G_2_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_G_3_Z_H_0.dwg" ShowName="XHJ_LF_112_G_3_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\发车(带表示器)\XHJ_LF_112_G_4_Z_H_0.dwg" ShowName="XHJ_LF_112_G_4_Z_H_0" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="调车" DefaultPath="xhj\调车" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\xhj\调车\XHJ_DC_119_A_0_Z_A_0.dwg" ShowName="XHJ_DC_119_A_0_Z_A_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\调车\XHJ_DC_119_G_0_Z_A_0.dwg" ShowName="XHJ_DC_119_G_0_Z_A_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\调车\XHJ_DC_120_A_0_Z_H_0.dwg" ShowName="XHJ_DC_120_A_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\调车\XHJ_DC_120_G_0_Z_H_0.dwg" ShowName="XHJ_DC_120_G_0_Z_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\调车\XHJ_DC_121_A_0_Z_H_0.dwg" ShowName="XHJ_DC_121_A_0_Z_H_0" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="预告" DefaultPath="xhj\预告" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\xhj\预告\XHJ_YG_101_A_0_Z_U_0.dwg" ShowName="XHJ_YG_101_A_0_Z_U_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\预告\XHJ_YG_101_G_0_Z_U_0.dwg" ShowName="XHJ_YG_101_G_0_Z_U_0" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="通过" DefaultPath="xhj\通过" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\xhj\通过\XHJ_TG_103_A_0_Z_LU_0.dwg" ShowName="XHJ_TG_103_A_0_Z_LU_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\通过\XHJ_TG_103_G_0_Z_LU_0.dwg" ShowName="XHJ_TG_103_G_0_Z_LU_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\通过\XHJ_TG_103_G_0_Z_L_0.dwg" ShowName="XHJ_TG_103_G_0_Z_L_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\通过\XHJ_TG_103_G_0_Z_U_0.dwg" ShowName="XHJ_TG_103_G_0_Z_U_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\通过\XHJ_TG_103_G_1_Z_LU_0.dwg" ShowName="XHJ_TG_103_G_1_Z_LU_0" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="复示" DefaultPath="xhj\复示" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\xhj\复示\XHJ_FS_122_A_0_Z_0_0.dwg" ShowName="XHJ_FS_122_A_0_Z_0_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\复示\XHJ_FS_122_G_0_Z_0_0.dwg" ShowName="XHJ_FS_122_G_0_Z_0_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\复示\XHJ_FS_123_A_0_Z_0_0.dwg" ShowName="XHJ_FS_123_A_0_Z_0_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\复示\XHJ_FS_123_G_0_Z_0_0.dwg" ShowName="XHJ_FS_123_G_0_Z_0_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\复示\XHJ_FS_124_G_0_Z_0_0.dwg" ShowName="XHJ_FS_124_G_0_Z_0_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\复示\XHJ_FS_126_G_0_Z_0_0.dwg" ShowName="XHJ_FS_126_G_0_Z_0_0" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="地铁" DefaultPath="xhj\地铁" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\xhj\地铁\XHJ_DT_BA_A_Y_A_0.dwg" ShowName="XHJ_DT_BA_A_Y_A_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\地铁\XHJ_DT_BH_A_Y_A_0.dwg" ShowName="XHJ_DT_BH_A_Y_A_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\地铁\XHJ_DT_H_A_Y_H_0.dwg" ShowName="XHJ_DT_H_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\地铁\XHJ_DT_H_G_Y_H_0.dwg" ShowName="XHJ_DT_H_G_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\地铁\XHJ_DT_LBH_A_Y_H_0.dwg" ShowName="XHJ_DT_LBH_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\地铁\XHJ_DT_LH_A_Y_H_0.dwg" ShowName="XHJ_DT_LH_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\地铁\XHJ_DT_LH_G_Y_H_0.dwg" ShowName="XHJ_DT_LH_G_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\地铁\XHJ_DT_UBH_A_Y_H_0.dwg" ShowName="XHJ_DT_UBH_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\地铁\XHJ_DT_ULH_A_Y_H_0.dwg" ShowName="XHJ_DT_ULH_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\xhj\地铁\XHJ_DT_ULH_G_Y_H_0.dwg" ShowName="XHJ_DT_ULH_G_Y_H_0" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="道岔" DefaultPath="dc" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\dc\DC_00.dwg" ShowName="DC_00" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_000.dwg" ShowName="DC_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_001.dwg" ShowName="DC_001" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_002.dwg" ShowName="DC_002" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_003.dwg" ShowName="DC_003" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_004.dwg" ShowName="DC_004" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_005.dwg" ShowName="DC_005" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_006.dwg" ShowName="DC_006" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_007.dwg" ShowName="DC_007" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_008.dwg" ShowName="DC_008" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_009.dwg" ShowName="DC_009" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_01.dwg" ShowName="DC_01" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_010.dwg" ShowName="DC_010" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_011.dwg" ShowName="DC_011" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_012.dwg" ShowName="DC_012" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_013.dwg" ShowName="DC_013" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_014.dwg" ShowName="DC_014" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_02.dwg" ShowName="DC_02" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_03.dwg" ShowName="DC_03" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_04.dwg" ShowName="DC_04" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_05.dwg" ShowName="DC_05" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_06.dwg" ShowName="DC_06" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_07.dwg" ShowName="DC_07" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_08.dwg" ShowName="DC_08" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_09.dwg" ShowName="DC_09" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_10.dwg" ShowName="DC_10" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_11.dwg" ShowName="DC_11" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_12.dwg" ShowName="DC_12" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_13.dwg" ShowName="DC_13" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dc\DC_14.dwg" ShowName="DC_14" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="绝缘节" DefaultPath="jyj" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\jyj\JYJ_CX_0.dwg" ShowName="JYJ_CX_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jyj\JYJ_CX_1.dwg" ShowName="JYJ_CX_1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jyj\JYJ_DQ_0.dwg" ShowName="JYJ_DQ_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jyj\JYJ_DT_0.dwg" ShowName="JYJ_DT_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jyj\JYJ_DT_1.dwg" ShowName="JYJ_DT_1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jyj\JYJ_JX_0.dwg" ShowName="JYJ_JX_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jyj\JYJ_JX_1.dwg" ShowName="JYJ_JX_1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jyj\JYJ_PT_0.dwg" ShowName="JYJ_PT_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jyj\JYJ_PT_1.dwg" ShowName="JYJ_PT_1" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="箱盒" DefaultPath="box" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\box\BOX_E_0.dwg" ShowName="BOX_E_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_FSD_0-F_0.dwg" ShowName="BOX_FSD_0-F_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_FSD_0-S_0.dwg" ShowName="BOX_FSD_0-S_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_FSD_F-0_0.dwg" ShowName="BOX_FSD_F-0_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_FSD_F-F_0.dwg" ShowName="BOX_FSD_F-F_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_FSD_F-S_0.dwg" ShowName="BOX_FSD_F-S_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_FSD_F_0.dwg" ShowName="BOX_FSD_F_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_FSD_F_1.dwg" ShowName="BOX_FSD_F_1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_FSD_S-0_0.dwg" ShowName="BOX_FSD_S-0_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_FSD_S-F_0.dwg" ShowName="BOX_FSD_S-F_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_FSD_S-S_0.dwg" ShowName="BOX_FSD_S-S_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_FSD_S_0.dwg" ShowName="BOX_FSD_S_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_FSD_S_1.dwg" ShowName="BOX_FSD_S_1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_HF_1.dwg" ShowName="BOX_HF_1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_HZ_0.dwg" ShowName="BOX_HZ_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_HZ_ZZJ_0.dwg" ShowName="BOX_HZ_ZZJ_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\box\BOX_XB_0.dwg" ShowName="BOX_XB_0" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="电路" DefaultPath="dltb" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\dltb\AN1.dwg" ShowName="AN1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\AN2.dwg" ShowName="AN2" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\AN3.dwg" ShowName="AN3" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\AN4.dwg" ShowName="AN4" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\Bracket.dwg" ShowName="Bracket" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\Bulb1.dwg" ShowName="Bulb1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\Bulb2.dwg" ShowName="Bulb2" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\BYQ1.dwg" ShowName="BYQ1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\BYQ2.dwg" ShowName="BYQ2" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\DianLing-AC.dwg" ShowName="DianLing-AC" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\DianLing-DC.dwg" ShowName="DianLing-DC" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\Diode1.dwg" ShowName="Diode1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\Diode2.dwg" ShowName="Diode2" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\F.dwg" ShowName="F" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\KF.dwg" ShowName="KF" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\KFZ.dwg" ShowName="KFZ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\KZ.dwg" ShowName="KZ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\KZY.dwg" ShowName="KZY" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\Note.dwg" ShowName="Note" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\RC.dwg" ShowName="RC" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\RelayF.dwg" ShowName="RelayF" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\S1.dwg" ShowName="S1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\S2.dwg" ShowName="S2" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\S3.dwg" ShowName="S3" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\WZ1.dwg" ShowName="WZ1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\WZ2.dwg" ShowName="WZ2" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\WZ3.dwg" ShowName="WZ3" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\Z.dwg" ShowName="Z" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dltb\ZG-42.dwg" ShowName="ZG-42" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="继电器" DefaultPath="jdq" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\jdq\110-Bold.dwg" ShowName="110-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\110.dwg" ShowName="110" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\111-Bold.dwg" ShowName="111-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\111.dwg" ShowName="111" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\112-Bold.dwg" ShowName="112-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\112.dwg" ShowName="112" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\113-Bold.dwg" ShowName="113-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\113.dwg" ShowName="113" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\114-Bold.dwg" ShowName="114-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\114.dwg" ShowName="114" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\121-Bold.dwg" ShowName="121-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\121.dwg" ShowName="121" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\122-Bold.dwg" ShowName="122-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\122.dwg" ShowName="122" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\123-Bold.dwg" ShowName="123-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\123.dwg" ShowName="123" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\124-Bold.dwg" ShowName="124-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\124.dwg" ShowName="124" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\131-Bold.dwg" ShowName="131-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\131.dwg" ShowName="131" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\132-Bold.dwg" ShowName="132-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\132.dwg" ShowName="132" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\133-Bold.dwg" ShowName="133-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\133.dwg" ShowName="133" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\134-Bold.dwg" ShowName="134-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\134.dwg" ShowName="134" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\141-Bold.dwg" ShowName="141-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\141.dwg" ShowName="141" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\142-Bold.dwg" ShowName="142-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\142.dwg" ShowName="142" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\143-Bold.dwg" ShowName="143-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\143.dwg" ShowName="143" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\144-Bold.dwg" ShowName="144-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\144.dwg" ShowName="144" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\211-Bold.dwg" ShowName="211-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\211.dwg" ShowName="211" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\212-Bold.dwg" ShowName="212-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\212.dwg" ShowName="212" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\213-Bold.dwg" ShowName="213-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\213.dwg" ShowName="213" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\214-Bold.dwg" ShowName="214-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\214.dwg" ShowName="214" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\221-Bold.dwg" ShowName="221-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\221.dwg" ShowName="221" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\222-Bold.dwg" ShowName="222-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\222.dwg" ShowName="222" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\223-Bold.dwg" ShowName="223-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\223.dwg" ShowName="223" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\224-Bold.dwg" ShowName="224-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\224.dwg" ShowName="224" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\231-Bold.dwg" ShowName="231-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\231.dwg" ShowName="231" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\232-Bold.dwg" ShowName="232-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\232.dwg" ShowName="232" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\233-Bold.dwg" ShowName="233-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\233.dwg" ShowName="233" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\234-Bold.dwg" ShowName="234-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\234.dwg" ShowName="234" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\241-Bold.dwg" ShowName="241-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\241.dwg" ShowName="241" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\242-Bold.dwg" ShowName="242-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\242.dwg" ShowName="242" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\243-Bold.dwg" ShowName="243-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\243.dwg" ShowName="243" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\244-Bold.dwg" ShowName="244-Bold" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\244.dwg" ShowName="244" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\J01.dwg" ShowName="J01" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\J02.dwg" ShowName="J02" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\J03.dwg" ShowName="J03" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\J04.dwg" ShowName="J04" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\J05.dwg" ShowName="J05" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\J06.dwg" ShowName="J06" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\J07.dwg" ShowName="J07" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\J08.dwg" ShowName="J08" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\J09.dwg" ShowName="J09" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\jdq\RDGJ.dwg" ShowName="RDGJ" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="签字栏" DefaultPath="sign" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\sign\my_sign.dwg" ShowName="my_sign" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\sign\SIGN_3.dwg" ShowName="SIGN_3" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\sign\SIGN_4.dwg" ShowName="SIGN_4" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\sign\SIGN_6.dwg" ShowName="SIGN_6" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\sign\xiugai.dwg" ShowName="xiugai" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="表格" DefaultPath="bg" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\bg\BG_DCLX.dwg" ShowName="BG_DCLX" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\bg\BG_GUDAO.dwg" ShowName="BG_GUDAO" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\bg\BG_KZTPX.dwg" ShowName="BG_KZTPX" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="端子" DefaultPath="dz" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\dz\DZ_00.dwg" ShowName="DZ_00" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dz\DZ_01.dwg" ShowName="DZ_01" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dz\DZ_XHL_0.dwg" ShowName="DZ_XHL_0" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="连接符" DefaultPath="conti" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\conti\conti_1.dwg" ShowName="conti_1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\conti\conti_2.dwg" ShowName="conti_2" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\conti\conti_3.dwg" ShowName="conti_3" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\conti\conti_4.dwg" ShowName="conti_4" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="其他" DefaultPath="pmt" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\pmt\Arrow1.dwg" ShowName="Arrow1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\Arrow2.dwg" ShowName="Arrow2" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\AZ.dwg" ShowName="AZ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\Chair.dwg" ShowName="Chair" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\CRSC.dwg" ShowName="CRSC" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\CZ.dwg" ShowName="CZ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\FRAME_LEFT_0.dwg" ShowName="FRAME_LEFT_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\LD.dwg" ShowName="LD" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_4DK.dwg" ShowName="PMT_4DK" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_4JT.dwg" ShowName="PMT_4JT" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_Arrow3.dwg" ShowName="PMT_Arrow3" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_B.dwg" ShowName="PMT_B" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_CD_0.dwg" ShowName="PMT_CD_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_DIVIDE_0.dwg" ShowName="PMT_DIVIDE_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_DIVIDE_1.dwg" ShowName="PMT_DIVIDE_1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_DK.dwg" ShowName="PMT_DK" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_FX.dwg" ShowName="PMT_FX" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_H.dwg" ShowName="PMT_H" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_HAN.dwg" ShowName="PMT_HAN" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_JCB.dwg" ShowName="PMT_JCB" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_JTX_AQX_0.dwg" ShowName="PMT_JTX_AQX_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_JTX_HWX_0.dwg" ShowName="PMT_JTX_HWX_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_JTX_JWD_0.dwg" ShowName="PMT_JTX_JWD_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_JTX_QCX_0.dwg" ShowName="PMT_JTX_QCX_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_JTX_ZYX_0.dwg" ShowName="PMT_JTX_ZYX_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_JX.dwg" ShowName="PMT_JX" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_L.dwg" ShowName="PMT_L" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_QIAO.dwg" ShowName="PMT_QIAO" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_STATION.dwg" ShowName="PMT_STATION" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_TG-DPL.dwg" ShowName="PMT_TG-DPL" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_TOXHL_HEADER.dwg" ShowName="PMT_TOXHL_HEADER" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_U.dwg" ShowName="PMT_U" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_W_0_0.dwg" ShowName="PMT_W_0_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_XBD_0.dwg" ShowName="PMT_XBD_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_XHL_0.dwg" ShowName="PMT_XHL_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_XHL_1.dwg" ShowName="PMT_XHL_1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_YDQ_0.dwg" ShowName="PMT_YDQ_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_YDQ_1.dwg" ShowName="PMT_YDQ_1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_ZBS_0.dwg" ShowName="PMT_ZBS_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_ZBS_1.dwg" ShowName="PMT_ZBS_1" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\PMT_ZT.dwg" ShowName="PMT_ZT" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\pmt\XJQ.dwg" ShowName="XJQ" ShowAttribute="0" />
+        </Palette>
+    </PaletteSet>
+    <PaletteSet Name="地铁图库">
+        <Palette Name="信号机" DefaultPath="dt\信号机基本类型" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_0_0_LFH_A_Y_0_0.dwg" ShowName="DT_XHJ_0_0_LFH_A_Y_0_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_0_0_LH_A_Y_0_0.dwg" ShowName="DT_XHJ_0_0_LH_A_Y_0_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_0_0_LH_G_Y_0_0.dwg" ShowName="DT_XHJ_0_0_LH_G_Y_0_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_0_0_UFLH_A_Y_0_0.dwg" ShowName="DT_XHJ_0_0_UFLH_A_Y_0_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_0_0_ULFH_A_Y_0_0.dwg" ShowName="DT_XHJ_0_0_ULFH_A_Y_0_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_0_0_ULH_A_Y_0_0.dwg" ShowName="DT_XHJ_0_0_ULH_A_Y_0_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_0_1_LFH_A_Y_H_0.dwg" ShowName="DT_XHJ_0_1_LFH_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_0_1_LH_G_Y_H_0.dwg" ShowName="DT_XHJ_0_1_LH_G_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_0_1_UFLH_A_Y_H_0.dwg" ShowName="DT_XHJ_0_1_UFLH_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_0_1_ULFH_A_Y_H_0.dwg" ShowName="DT_XHJ_0_1_ULFH_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_0_1_ULH_A_Y_H_0.dwg" ShowName="DT_XHJ_0_1_ULH_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_1_1_LFHB_A_Y_H_0.dwg" ShowName="DT_XHJ_1_1_LFHB_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_1_1_ULFH_A_Y_H_0.dwg" ShowName="DT_XHJ_1_1_ULFH_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_1_1_ULH_A_Y_H_0.dwg" ShowName="DT_XHJ_1_1_ULH_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_1_1_ULH_G_Y_H_0.dwg" ShowName="DT_XHJ_1_1_ULH_G_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_XN.dwg" ShowName="DT_XHJ_XN" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\DT_XHJ_XN_09.dwg" ShowName="DT_XHJ_XN_09" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="车辆段信号机" DefaultPath="dt\信号机基本类型\车辆段" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\车辆段\DT_XHJ_BA_A_Y_A_0.dwg" ShowName="DT_XHJ_BA_A_Y_A_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\车辆段\DT_XHJ_BA_G_Y_A_0.dwg" ShowName="DT_XHJ_BA_G_Y_A_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\车辆段\DT_XHJ_BH_A_Y_H_0.dwg" ShowName="DT_XHJ_BH_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\车辆段\DT_XHJ_BH_G_Y_H_0.dwg" ShowName="DT_XHJ_BH_G_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\车辆段\DT_XHJ_LFBH_A_Y_H_0.dwg" ShowName="DT_XHJ_LFBH_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\车辆段\DT_XHJ_LFBH_G_Y_H_0.dwg" ShowName="DT_XHJ_LFBH_G_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\车辆段\DT_XHJ_UBH_A_Y_H_0.dwg" ShowName="DT_XHJ_UBH_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\车辆段\DT_XHJ_UBH_G_Y_H_0.dwg" ShowName="DT_XHJ_UBH_G_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\车辆段\DT_XHJ_ULFHB_A_Y_H_0.dwg" ShowName="DT_XHJ_ULFHB_A_Y_H_0" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\信号机基本类型\车辆段\DT_XHJ_ULFHB_G_Y_H_0.dwg" ShowName="DT_XHJ_ULFHB_G_Y_H_0" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="道岔转辙机" DefaultPath="dt\道岔转辙机基本类型" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\dt\道岔转辙机基本类型\DT_DC_FJZ_000.dwg" ShowName="DT_DC_FJZ_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\道岔转辙机基本类型\DT_DC_FJZ_100.dwg" ShowName="DT_DC_FJZ_100" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\道岔转辙机基本类型\DT_DC_JZ_000.dwg" ShowName="DT_DC_JZ_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\道岔转辙机基本类型\DT_DC_JZ_100.dwg" ShowName="DT_DC_JZ_100" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\道岔转辙机基本类型\DT_ZZJ_P_DJQY(FW)_300.dwg" ShowName="DT_ZZJ_P_DJQY(FW)_300" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\道岔转辙机基本类型\DT_ZZJ_P_DJQY(FX)_100.dwg" ShowName="DT_ZZJ_P_DJQY(FX)_100" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\道岔转辙机基本类型\DT_ZZJ_P_DJQY_000.dwg" ShowName="DT_ZZJ_P_DJQY_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\道岔转辙机基本类型\DT_ZZJ_P_SJQY_000.dwg" ShowName="DT_ZZJ_P_SJQY_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\道岔转辙机基本类型\DT_ZZJ_P_SJQY_100.dwg" ShowName="DT_ZZJ_P_SJQY_100" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\道岔转辙机基本类型\DT_ZZJ_S_DJQY(FW)_300.dwg" ShowName="DT_ZZJ_S_DJQY(FW)_300" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\道岔转辙机基本类型\DT_ZZJ_S_DJQY(FX)_100.dwg" ShowName="DT_ZZJ_S_DJQY(FX)_100" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\道岔转辙机基本类型\DT_ZZJ_S_DJQY_000.dwg" ShowName="DT_ZZJ_S_DJQY_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\道岔转辙机基本类型\DT_ZZJ_S_SJQY_000.dwg" ShowName="DT_ZZJ_S_SJQY_000" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="占用检查" DefaultPath="dt\列车占用检查设备基本类型" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_BOX_FSD_F.dwg" ShowName="DT_BOX_FSD_F" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_BOX_FSD_FF_000.dwg" ShowName="DT_BOX_FSD_FF_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_BOX_FSD_FF_100.dwg" ShowName="DT_BOX_FSD_FF_100" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_BOX_FSD_FS_000.dwg" ShowName="DT_BOX_FSD_FS_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_BOX_FSD_FS_100.dwg" ShowName="DT_BOX_FSD_FS_100" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_BOX_FSD_SF_000.dwg" ShowName="DT_BOX_FSD_SF_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_BOX_FSD_SF_100.dwg" ShowName="DT_BOX_FSD_SF_100" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_BOX_FSD_SS_000.dwg" ShowName="DT_BOX_FSD_SS_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_BOX_FSD_SS_100.dwg" ShowName="DT_BOX_FSD_SS_100" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_BOX_FSD_S_000.dwg" ShowName="DT_BOX_FSD_S_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_FJ.dwg" ShowName="DT_FJ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_JYJ_CX_WZB.dwg" ShowName="DT_JYJ_CX_WZB" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_JYJ_CX_YZB.dwg" ShowName="DT_JYJ_CX_YZB" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_JYJ_DQ_WZB.dwg" ShowName="DT_JYJ_DQ_WZB" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_JYJ_DT_WZB.dwg" ShowName="DT_JYJ_DT_WZB" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_JYJ_DT_YZB.dwg" ShowName="DT_JYJ_DT_YZB" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_JYJ_JX.dwg" ShowName="DT_JYJ_JX" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_JYJ_PT_WZB.dwg" ShowName="DT_JYJ_PT_WZB" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_JYJ_PT_YZB.dwg" ShowName="DT_JYJ_PT_YZB" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_JZ_FJ.dwg" ShowName="DT_JZ_FJ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_JZ_PT.dwg" ShowName="DT_JZ_PT" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车占用检查设备基本类型\DT_JZ_QX.dwg" ShowName="DT_JZ_QX" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="校准及通信" DefaultPath="dt\列车位置校正及车地通信设备" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\dt\列车位置校正及车地通信设备\DT_DHX.dwg" ShowName="DT_DHX" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车位置校正及车地通信设备\DT_JJP.dwg" ShowName="DT_JJP" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车位置校正及车地通信设备\DT_QZTHX.dwg" ShowName="DT_QZTHX" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车位置校正及车地通信设备\DT_YDQ_LJJY(WB).dwg" ShowName="DT_YDQ_LJJY(WB)" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车位置校正及车地通信设备\DT_YDQ_WY(GD).dwg" ShowName="DT_YDQ_WY(GD)" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车位置校正及车地通信设备\DT_YDQ_WYDJ(GD).dwg" ShowName="DT_YDQ_WYDJ(GD)" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车位置校正及车地通信设备\DT_YDQ_WYDX(GD).dwg" ShowName="DT_YDQ_WYDX(GD)" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车位置校正及车地通信设备\DT_YDQ_YY(YG).dwg" ShowName="DT_YDQ_YY(YG)" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\列车位置校正及车地通信设备\DT_YDQ_YY(Z).dwg" ShowName="DT_YDQ_YY(Z)" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="车站设备" DefaultPath="dt\车站设备基本类型" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_BUTTON_JJGB_01.dwg" ShowName="DT_BUTTON_JJGB_01" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_BUTTON_WRZDZF_000.dwg" ShowName="DT_BUTTON_WRZDZF_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_DOOR.dwg" ShowName="DT_DOOR" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_DOOR_YL.dwg" ShowName="DT_DOOR_YL" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_FCJSQ_000.dwg" ShowName="DT_FCJSQ_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_FJB_000.dwg" ShowName="DT_FJB_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_JCT.dwg" ShowName="DT_JCT" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_JZ.dwg" ShowName="DT_JZ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_JZ_01.dwg" ShowName="DT_JZ_01" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_JZ_02.dwg" ShowName="DT_JZ_02" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_SBJZ_000.dwg" ShowName="DT_SBJZ_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_STATION_FJZ.dwg" ShowName="DT_STATION_FJZ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_STATION_JZ_01.dwg" ShowName="DT_STATION_JZ_01" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_STATION_JZ_02.dwg" ShowName="DT_STATION_JZ_02" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_STATION_XHL.dwg" ShowName="DT_STATION_XHL" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_STATION_XHPF.dwg" ShowName="DT_STATION_XHPF" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_STOP_000.dwg" ShowName="DT_STOP_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_XHSBS.dwg" ShowName="DT_XHSBS" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_ZT_000.dwg" ShowName="DT_ZT_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_ZT_004.dwg" ShowName="DT_ZT_004" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车站设备基本类型\DT_ZT_XX.dwg" ShowName="DT_ZT_XX" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="箱盒" DefaultPath="dt\箱盒基本类型" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_AP_000.dwg" ShowName="DT_AP_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_AP_100.dwg" ShowName="DT_AP_100" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_AP_300.dwg" ShowName="DT_AP_300" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_BOX_BYQ_000.dwg" ShowName="DT_BOX_BYQ_000" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_BOX_BYQ_100.dwg" ShowName="DT_BOX_BYQ_100" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_BOX_CDTXHX.dwg" ShowName="DT_BOX_CDTXHX" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_BOX_CIRCLE_01.dwg" ShowName="DT_BOX_CIRCLE_01" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_BOX_FXH.dwg" ShowName="DT_BOX_FXH" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_BOX_FX_4.dwg" ShowName="DT_BOX_FX_4" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_BOX_FX_7.dwg" ShowName="DT_BOX_FX_7" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_BOX_JZGPJX.dwg" ShowName="DT_BOX_JZGPJX" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_BOX_RECT_01.dwg" ShowName="DT_BOX_RECT_01" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_BOX_ZD_12.dwg" ShowName="DT_BOX_ZD_12" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_BOX_ZD_24.dwg" ShowName="DT_BOX_ZD_24" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\箱盒基本类型\DT_TRE_000.dwg" ShowName="DT_TRE_000" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="车载设备" DefaultPath="dt\车载设备基本类型" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\dt\车载设备基本类型\DT_ONBOARD_CSDJ.dwg" ShowName="DT_ONBOARD_CSDJ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车载设备基本类型\DT_ONBOARD_GDAP.dwg" ShowName="DT_ONBOARD_GDAP" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车载设备基本类型\DT_ONBOARD_JSDJ.dwg" ShowName="DT_ONBOARD_JSDJ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车载设备基本类型\DT_ONBOARD_LADAR.dwg" ShowName="DT_ONBOARD_LADAR" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车载设备基本类型\DT_ONBOARD_WIREAP.dwg" ShowName="DT_ONBOARD_WIREAP" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车载设备基本类型\DT_ONBOARD_WIRELESSAP.dwg" ShowName="DT_ONBOARD_WIRELESSAP" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\车载设备基本类型\DT_ONBOARD_YDQAP.dwg" ShowName="DT_ONBOARD_YDQAP" ShowAttribute="0" />
+        </Palette>
+        <Palette Name="网络设备" DefaultPath="dt\网络设备基本图例" DefaultShowAttribute="0">
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_CPZL.dwg" ShowName="DT_CPZL" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_DYJ.dwg" ShowName="DT_DYJ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_DYSB.dwg" ShowName="DT_DYSB" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_FEP.dwg" ShowName="DT_FEP" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_FHQ.dwg" ShowName="DT_FHQ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_GXJXQ.dwg" ShowName="DT_GXJXQ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_JHJ(LYQ).dwg" ShowName="DT_JHJ(LYQ)" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_SDH.dwg" ShowName="DT_SDH" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_SJKFWQ.dwg" ShowName="DT_SJKFWQ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_WLJG.dwg" ShowName="DT_WLJG" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_WLJRD.dwg" ShowName="DT_WLJRD" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_WXJR.dwg" ShowName="DT_WXJR" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_YYFWQ.dwg" ShowName="DT_YYFWQ" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_ZDGZZ_001.dwg" ShowName="DT_ZDGZZ_001" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_ZDGZZ_002.dwg" ShowName="DT_ZDGZZ_002" ShowAttribute="0" />
+            <File FullPath="C:\block_zhf\support\dt\网络设备基本图例\DT_ZDGZZ_003.dwg" ShowName="DT_ZDGZZ_003" ShowAttribute="0" />
+        </Palette>
+    </PaletteSet>
+</ZhfCAD>

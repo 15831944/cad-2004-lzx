@@ -1,0 +1,122 @@
+<html>
+<head>
+<META HTTP-EQUIV="Content-Type" content="text/html; charset=gb2312">
+</head>
+<body>
+<pre>
+<table width=100% bgcolor=#CFCFE5><tr> <td> <font face=宋体 size=+3>
+生成日志
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>
+<h3>------- 已启动生成：项目：tinyxmlapp，配置：Debug|Win32 -------
+</h3>
+</pre></table><table width=100%% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+环境空间
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>    ALLUSERSPROFILE=C:\Documents and Settings\All Users
+    APPDATA=C:\Documents and Settings\wangli\Application Data
+    APR_ICONV_PATH=C:\Program Files\Subversion\iconv
+    CommonProgramFiles=C:\Program Files\Common Files
+    COMPUTERNAME=ZHF-VM-VS2002
+    ComSpec=C:\WINDOWS\system32\cmd.exe
+    FP_NO_HOST_CHECK=NO
+    frameworkdir=c:\windows\microsoft.net\framework\
+    frameworksdkdir=d:\program files\microsoft visual studio .net\frameworksdk\
+    HOMEDRIVE=C:
+    HOMEPATH=\Documents and Settings\wangli
+    INCLUDE=D:\Program Files\Microsoft Visual Studio .NET\Vc7\include;D:\Program Files\Microsoft Visual Studio .NET\Vc7\atlmfc\include;D:\Program Files\Microsoft Visual Studio .NET\Vc7\PlatformSDK\include\prerelease;D:\Program Files\Microsoft Visual Studio .NET\Vc7\PlatformSDK\include;D:\Program Files\Microsoft Visual Studio .NET\FrameworkSDK\include;D:\ObjectARX2004\inc;
+    LIB=D:\Program Files\Microsoft Visual Studio .NET\Vc7\lib;D:\Program Files\Microsoft Visual Studio .NET\Vc7\atlmfc\lib;D:\Program Files\Microsoft Visual Studio .NET\Vc7\PlatformSDK\lib\prerelease;D:\Program Files\Microsoft Visual Studio .NET\Vc7\PlatformSDK\lib;D:\Program Files\Microsoft Visual Studio .NET\FrameworkSDK\lib;D:\ObjectARX2004\lib;
+    LIBPATH=
+    LOGONSERVER=\\ZHF-VM-VS2002
+    MSDevDir=D:\Program Files\VC++6.0\MSDev98
+    MsVCDir=d:\program files\microsoft visual studio .net\
+    NUMBER_OF_PROCESSORS=2
+    OS=Windows_NT
+    Path=D:\Program Files\Microsoft Visual Studio .NET\Vc7\bin;D:\Program Files\Microsoft Visual Studio .NET\Common7\Tools\bin\prerelease;D:\Program Files\Microsoft Visual Studio .NET\Common7\Tools\bin;D:\Program Files\Microsoft Visual Studio .NET\Common7\tools;D:\Program Files\Microsoft Visual Studio .NET\Common7\ide;C:\Program Files\HTML Help Workshop\;D:\Program Files\Microsoft Visual Studio .NET\FrameworkSDK\bin;C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;
+    PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH
+    PROCESSOR_ARCHITECTURE=x86
+    PROCESSOR_IDENTIFIER=x86 Family 6 Model 60 Stepping 3, GenuineIntel
+    PROCESSOR_LEVEL=6
+    PROCESSOR_REVISION=3c03
+    ProgramFiles=C:\Program Files
+    SESSIONNAME=Console
+    SystemDrive=C:
+    SystemRoot=C:\WINDOWS
+    TEMP=C:\DOCUME~1\wangli\LOCALS~1\Temp
+    TMP=C:\DOCUME~1\wangli\LOCALS~1\Temp
+    USERDOMAIN=ZHF-VM-VS2002
+    USERNAME=wangli
+    USERPROFILE=C:\Documents and Settings\wangli
+    VCInstallDir=d:\program files\microsoft visual studio .net\vc7\
+    VSCOMNTOOLS="D:\Program Files\Microsoft Visual Studio .NET\Common7\Tools\"
+    VSInstallDir=d:\program files\microsoft visual studio .net\
+    windir=C:\WINDOWS
+    _ACP_ATLPROV=D:\Program Files\Microsoft Visual Studio .NET\Vc7\bin\ATLPROV.DLL
+    _ACP_INCLUDE="..\ugrid\Ultimate Grid\Include";D:\Program Files\Microsoft Visual Studio .NET\Vc7\include;D:\Program Files\Microsoft Visual Studio .NET\Vc7\atlmfc\include;D:\Program Files\Microsoft Visual Studio .NET\Vc7\PlatformSDK\include\prerelease;D:\Program Files\Microsoft Visual Studio .NET\Vc7\PlatformSDK\include;D:\Program Files\Microsoft Visual Studio .NET\FrameworkSDK\include;D:\ObjectARX2004\inc;
+    _ACP_LIB=D:\Program Files\Microsoft Visual Studio .NET\Vc7\lib;D:\Program Files\Microsoft Visual Studio .NET\Vc7\atlmfc\lib;D:\Program Files\Microsoft Visual Studio .NET\Vc7\PlatformSDK\lib\prerelease;D:\Program Files\Microsoft Visual Studio .NET\Vc7\PlatformSDK\lib;D:\Program Files\Microsoft Visual Studio .NET\FrameworkSDK\lib;D:\ObjectARX2004\lib;;"..\ugrid\Ultimate Grid\Include";D:\Program Files\Microsoft Visual Studio .NET\Vc7\include;D:\Program Files\Microsoft Visual Studio .NET\Vc7\atlmfc\include;D:\Program Files\Microsoft Visual Studio .NET\Vc7\PlatformSDK\include\prerelease;D:\Program Files\Microsoft Visual Studio .NET\Vc7\PlatformSDK\include;D:\Program Files\Microsoft Visual Studio .NET\FrameworkSDK\include;D:\ObjectARX2004\inc;
+    _ACP_PATH=D:\Program Files\Microsoft Visual Studio .NET\Vc7\bin;D:\Program Files\Microsoft Visual Studio .NET\Common7\Tools\bin\prerelease;D:\Program Files\Microsoft Visual Studio .NET\Common7\Tools\bin;D:\Program Files\Microsoft Visual Studio .NET\Common7\tools;D:\Program Files\Microsoft Visual Studio .NET\Common7\ide;C:\Program Files\HTML Help Workshop\;D:\Program Files\Microsoft Visual Studio .NET\FrameworkSDK\bin;C:\WINDOWS\Microsoft.NET\Framework\v1.0.3705;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;
+</pre></table><table width=100%% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+命令行
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>正在创建临时文件“f:\cad2004-dtpmt\tinyxmlapp\Debug\RSP00003C.rsp”，其内容为
+[
+/Od /D "WIN32" /D "_WINDOWS" /D "_MBCS" /D "_AFXDLL" /Gm /EHsc /RTC1 /MD /Zc:wchar_t /YX"stdafx.h" /Fp"Debug/tinyxmlapp.pch" /Fo"Debug/" /Fd"Debug/vc70.pdb" /W3 /c /Wp64 /ZI /TP
+"tinyxmlappDlg.cpp"
+"tinyxmlapp.cpp"
+]
+正在创建命令行“cl.exe @"f:\cad2004-dtpmt\tinyxmlapp\Debug\RSP00003C.rsp" /nologo”
+正在创建临时文件“f:\cad2004-dtpmt\tinyxmlapp\Debug\RSP00003D.rsp”，其内容为
+[
+/Od /D "WIN32" /D "_WINDOWS" /D "_MBCS" /D "_AFXDLL" /Gm /EHsc /RTC1 /MD /Zc:wchar_t /Yc"stdafx.h" /Fp"Debug/tinyxmlapp.pch" /Fo"Debug/" /Fd"Debug/vc70.pdb" /W3 /c /Wp64 /ZI /TP
+"stdafx.cpp"
+]
+正在创建命令行“cl.exe @"f:\cad2004-dtpmt\tinyxmlapp\Debug\RSP00003D.rsp" /nologo”
+正在创建命令行“rc.exe /d "_DEBUG" /d "_AFXDLL" /l 0x409 /I "Debug" /fo"Debug/tinyxmlapp.res" "tinyxmlapp.rc"”
+正在创建临时文件“f:\cad2004-dtpmt\tinyxmlapp\Debug\RSP00003E.rsp”，其内容为
+[
+/OUT:"../debug/tinyxmlapp.exe" /INCREMENTAL /NOLOGO /DEBUG /PDB:"Debug/tinyxmlapp.pdb" /SUBSYSTEM:WINDOWS /MACHINE:IX86 "\cad2004-dtpmt\blkdll\Debug\blkdll.lib"
+"Debug\stdafx.obj"
+"Debug\tinyxmlapp.obj"
+"Debug\tinyxmlappDlg.obj"
+"Debug\tinyxmlapp.res"
+]
+正在创建命令行“link.exe @"f:\cad2004-dtpmt\tinyxmlapp\Debug\RSP00003E.rsp"”
+</pre></table><table width=100%% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+输出窗口
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>正在编译...
+stdafx.cpp
+正在编译...
+tinyxmlappDlg.cpp
+f:\cad2004-dtpmt\tinyxmlapp\tinyxmlappDlg.cpp(226) : warning C4244: “初始化” : 从“INT_PTR”转换到“int”，可能丢失数据
+tinyxmlapp.cpp
+正在编译资源...
+正在链接...
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "public: bool __thiscall TiXmlDocument::SaveFile(char const *)const " (?SaveFile@TiXmlDocument@@QBE_NPBD@Z) ，该符号在函数 "public: bool __thiscall CtinyxmlappDlg::CreateXml(void)" (?CreateXml@CtinyxmlappDlg@@QAE_NXZ) 中被引用
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall TiXmlElement::SetAttribute(char const *,int)" (?SetAttribute@TiXmlElement@@QAEXPBDH@Z) ，该符号在函数 "public: bool __thiscall CtinyxmlappDlg::CreateXml(void)" (?CreateXml@CtinyxmlappDlg@@QAE_NXZ) 中被引用
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall TiXmlElement::SetAttribute(char const *,char const *)" (?SetAttribute@TiXmlElement@@QAEXPBD0@Z) ，该符号在函数 "public: bool __thiscall CtinyxmlappDlg::CreateXml(void)" (?CreateXml@CtinyxmlappDlg@@QAE_NXZ) 中被引用
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall TiXmlElement::TiXmlElement(char const *)" (??0TiXmlElement@@QAE@PBD@Z) ，该符号在函数 "public: bool __thiscall CtinyxmlappDlg::CreateXml(void)" (?CreateXml@CtinyxmlappDlg@@QAE_NXZ) 中被引用
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "public: class TiXmlNode * __thiscall TiXmlNode::LinkEndChild(class TiXmlNode *)" (?LinkEndChild@TiXmlNode@@QAEPAV1@PAV1@@Z) ，该符号在函数 "public: bool __thiscall CtinyxmlappDlg::CreateXml(void)" (?CreateXml@CtinyxmlappDlg@@QAE_NXZ) 中被引用
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall TiXmlDeclaration::TiXmlDeclaration(char const *,char const *,char const *)" (??0TiXmlDeclaration@@QAE@PBD00@Z) ，该符号在函数 "public: bool __thiscall CtinyxmlappDlg::CreateXml(void)" (?CreateXml@CtinyxmlappDlg@@QAE_NXZ) 中被引用
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall TiXmlDocument::TiXmlDocument(void)" (??0TiXmlDocument@@QAE@XZ) ，该符号在函数 "public: bool __thiscall CtinyxmlappDlg::CreateXml(void)" (?CreateXml@CtinyxmlappDlg@@QAE_NXZ) 中被引用
+tinyxmlappDlg.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __thiscall TiXmlComment::Accept(class TiXmlVisitor *)const " (?Accept@TiXmlComment@@UBE_NPAVTiXmlVisitor@@@Z)
+tinyxmlappDlg.obj : error LNK2001: 无法解析的外部符号 "public: virtual class TiXmlNode * __thiscall TiXmlComment::Clone(void)const " (?Clone@TiXmlComment@@UBEPAVTiXmlNode@@XZ)
+tinyxmlappDlg.obj : error LNK2001: 无法解析的外部符号 "public: virtual char const * __thiscall TiXmlComment::Parse(char const *,class TiXmlParsingData *,enum TiXmlEncoding)" (?Parse@TiXmlComment@@UAEPBDPBDPAVTiXmlParsingData@@W4TiXmlEncoding@@@Z)
+tinyxmlappDlg.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __thiscall TiXmlComment::Print(struct _iobuf *,int)const " (?Print@TiXmlComment@@UBEXPAU_iobuf@@H@Z)
+tinyxmlappDlg.obj : error LNK2001: 无法解析的外部符号 "public: virtual __thiscall TiXmlNode::~TiXmlNode(void)" (??1TiXmlNode@@UAE@XZ)
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "protected: __thiscall TiXmlNode::TiXmlNode(enum TiXmlNode::NodeType)" (??0TiXmlNode@@IAE@W4NodeType@0@@Z) ，该符号在函数 "public: __thiscall TiXmlComment::TiXmlComment(char const *)" (??0TiXmlComment@@QAE@PBD@Z) 中被引用
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "public: class TiXmlString & __thiscall TiXmlString::assign(char const *,unsigned int)" (?assign@TiXmlString@@QAEAAV1@PBDI@Z) ，该符号在函数 "public: class TiXmlString & __thiscall TiXmlString::operator=(char const *)" (??4TiXmlString@@QAEAAV0@PBD@Z) 中被引用
+tinyxmlappDlg.obj : error LNK2001: 无法解析的外部符号 "public: virtual bool __thiscall TiXmlDocument::Accept(class TiXmlVisitor *)const " (?Accept@TiXmlDocument@@UBE_NPAVTiXmlVisitor@@@Z)
+tinyxmlappDlg.obj : error LNK2001: 无法解析的外部符号 "protected: virtual class TiXmlNode * __thiscall TiXmlDocument::Clone(void)const " (?Clone@TiXmlDocument@@MBEPAVTiXmlNode@@XZ)
+tinyxmlappDlg.obj : error LNK2001: 无法解析的外部符号 "public: virtual char const * __thiscall TiXmlDocument::Parse(char const *,class TiXmlParsingData *,enum TiXmlEncoding)" (?Parse@TiXmlDocument@@UAEPBDPBDPAVTiXmlParsingData@@W4TiXmlEncoding@@@Z)
+tinyxmlappDlg.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __thiscall TiXmlDocument::Print(struct _iobuf *,int)const " (?Print@TiXmlDocument@@UBEXPAU_iobuf@@H@Z)
+tinyxmlappDlg.obj : error LNK2001: 无法解析的外部符号 "private: static struct TiXmlString::Rep TiXmlString::nullrep_" (?nullrep_@TiXmlString@@0URep@1@A)
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "public: char const * __thiscall TiXmlElement::Attribute(char const *)const " (?Attribute@TiXmlElement@@QBEPBDPBD@Z) ，该符号在函数 "public: void __thiscall CtinyxmlappDlg::OnBnClickedButton2(void)" (?OnBnClickedButton2@CtinyxmlappDlg@@QAEXXZ) 中被引用
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "public: class TiXmlHandle __thiscall TiXmlHandle::FirstChild(char const *)const " (?FirstChild@TiXmlHandle@@QBE?AV1@PBD@Z) ，该符号在函数 "public: void __thiscall CtinyxmlappDlg::OnBnClickedButton2(void)" (?OnBnClickedButton2@CtinyxmlappDlg@@QAEXXZ) 中被引用
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "public: bool __thiscall TiXmlDocument::LoadFile(enum TiXmlEncoding)" (?LoadFile@TiXmlDocument@@QAE_NW4TiXmlEncoding@@@Z) ，该符号在函数 "public: void __thiscall CtinyxmlappDlg::OnBnClickedButton2(void)" (?OnBnClickedButton2@CtinyxmlappDlg@@QAEXXZ) 中被引用
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall TiXmlDocument::TiXmlDocument(char const *)" (??0TiXmlDocument@@QAE@PBD@Z) ，该符号在函数 "public: void __thiscall CtinyxmlappDlg::OnBnClickedButton2(void)" (?OnBnClickedButton2@CtinyxmlappDlg@@QAEXXZ) 中被引用
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "public: class TiXmlElement const * __thiscall TiXmlNode::NextSiblingElement(void)const " (?NextSiblingElement@TiXmlNode@@QBEPBVTiXmlElement@@XZ) ，该符号在函数 "public: class TiXmlElement * __thiscall TiXmlNode::NextSiblingElement(void)" (?NextSiblingElement@TiXmlNode@@QAEPAVTiXmlElement@@XZ) 中被引用
+tinyxmlappDlg.obj : error LNK2019: 无法解析的外部符号 "public: class TiXmlElement const * __thiscall TiXmlNode::FirstChildElement(void)const " (?FirstChildElement@TiXmlNode@@QBEPBVTiXmlElement@@XZ) ，该符号在函数 "public: class TiXmlElement * __thiscall TiXmlNode::FirstChildElement(void)" (?FirstChildElement@TiXmlNode@@QAEPAVTiXmlElement@@XZ) 中被引用
+../debug/tinyxmlapp.exe : fatal error LNK1120: 25 个无法解析的外部命令
+</pre></table><table width=100%% bgcolor=#DFDFE5><tr><td><font face=arial size=+2>
+结果
+</font></table><table width=* cellspacing=0 cellpadding=0><tr><td width=0 bgcolor=#EDEDF5>&nbsp;</td><td width=0 bgcolor=#FFFFFF>&nbsp;</td><td width=*><pre>
+生成日志保存在“file://f:\cad2004-dtpmt\tinyxmlapp\Debug\BuildLog.htm”中
+tinyxmlapp - 26 错误，1 警告</pre></table><table   width=100% height=20 bgcolor=#CFCFE5><tr><td><font face=宋体 size=+2>
+</font></table></body></html>

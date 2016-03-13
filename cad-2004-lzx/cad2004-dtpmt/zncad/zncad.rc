@@ -1,0 +1,710 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文（中华人民共和国） resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "FileDescription", "zncad ObjectARX application"
+            VALUE "FileVersion", "1, 0, 0, 1"
+            VALUE "InternalName", "zncad"
+            VALUE "LegalCopyright", "Copyright ?2002"
+            VALUE "OriginalFilename", "zhfzncad.arx"
+            VALUE "ProductName", "zncad Application"
+            VALUE "ProductVersion", "1, 0, 0, 1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_MOD_ENT DIALOGEX 0, 0, 164, 257
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "数据编辑"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "确定",IDOK,29,236,50,14
+    PUSHBUTTON      "取消",IDCANCEL,84,236,50,14
+END
+
+IDD_CABLEINFO DIALOGEX 0, 0, 451, 362
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "电缆信息"
+FONT 10, "新宋体", 400, 0, 0x86
+BEGIN
+    EDITTEXT        IDC_EDIT_CABLEINFO_ALL,59,22,56,13,ES_AUTOHSCROLL | NOT 
+                    WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_DIST1,59,81,56,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_DIST2,166,81,56,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_GDNUM,59,98,56,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_BOXNUM,166,98,56,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_PLUS,59,114,56,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_TYPE,59,176,56,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_BACKUP,166,176,56,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_SN,59,193,56,13,ES_AUTOHSCROLL | NOT 
+                    WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_INTOXHLNAME,166,193,56,13,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_BOXFNUM,59,133,56,13,ES_AUTOHSCROLL | 
+                    WS_DISABLED | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_INTOXHL,166,133,56,13,ES_AUTOHSCROLL | 
+                    WS_DISABLED | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_COEFFICIENT,69,238,45,13,
+                    ES_AUTOHSCROLL | WS_DISABLED | NOT WS_BORDER,
+                    WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_PERINTOXHL,177,238,45,13,
+                    ES_AUTOHSCROLL | WS_DISABLED | NOT WS_BORDER,
+                    WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_PERGD,69,254,45,13,ES_AUTOHSCROLL | 
+                    WS_DISABLED | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_PERBETWEENGD,177,254,45,13,
+                    ES_AUTOHSCROLL | WS_DISABLED | NOT WS_BORDER,
+                    WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_PERBOX,69,272,45,13,ES_AUTOHSCROLL | 
+                    WS_DISABLED | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_PERBOXF,177,272,45,13,ES_AUTOHSCROLL | 
+                    WS_DISABLED | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_CABLEINFO_PERBETWEENBOXF,69,291,45,13,
+                    ES_AUTOHSCROLL | WS_DISABLED | NOT WS_BORDER,
+                    WS_EX_STATICEDGE
+    DEFPUSHBUTTON   "确定",IDOK,63,341,50,14
+    PUSHBUTTON      "取消",IDCANCEL,138,341,50,14
+    EDITTEXT        IDC_EDIT_CABLEINFO_LEN,59,39,56,13,ES_AUTOHSCROLL | 
+                    WS_DISABLED | NOT WS_BORDER | NOT WS_TABSTOP,
+                    WS_EX_STATICEDGE
+    LTEXT           "距楼(d1)",IDC_STATIC,17,84,33,8
+    LTEXT           "过轨(G)",IDC_STATIC,17,101,29,8
+    LTEXT           "箱盒(B)",IDC_STATIC,125,101,29,8
+    LTEXT           "接续(C)",IDC_STATIC,17,136,29,8
+    LTEXT           "弯曲系数(β)",IDC_STATIC,17,242,49,8
+    LTEXT           "修正(P)",IDC_STATIC,17,117,29,8
+    GROUPBOX        "参数",IDC_STATIC,7,225,221,105
+    LTEXT           "长度(L)",IDC_STATIC,17,41,29,8
+    LTEXT           "电缆型号",IDC_STATIC,17,178,33,8
+    LTEXT           "备用芯数",IDC_STATIC,125,178,33,8
+    GROUPBOX        "数据",IDC_STATIC,7,67,221,87
+    LTEXT           "电缆字串",IDC_STATIC,17,24,33,8
+    GROUPBOX        "汇总",IDC_STATIC,7,9,221,50
+    LTEXT           "编号",IDC_STATIC,17,197,17,8
+    LTEXT           "原有信息",IDC_STATIC,125,25,33,8
+    EDITTEXT        IDC_EDIT_CABLEINFO_OLD,166,22,56,13,ES_AUTOHSCROLL | 
+                    ES_READONLY | WS_DISABLED | NOT WS_BORDER,
+                    WS_EX_STATICEDGE
+    LTEXT           "入楼名称",IDC_STATIC,125,197,33,8
+    LTEXT           "过轨增缆(g)",IDC_STATIC,17,258,45,8
+    LTEXT           "每盒增缆(b)",IDC_STATIC,17,276,45,8
+    LTEXT           "每接续增缆(c)",IDC_STATIC,119,276,53,8
+    LTEXT           "距楼(d2)",IDC_STATIC,125,84,33,8
+    LTEXT           "轨道间距(g2)",IDC_STATIC,119,258,49,8
+    LTEXT           "进楼增缆(a)",IDC_STATIC,119,242,45,8
+    LTEXT           "电缆公式:L=(|d1-d2|+B*b+C*c+G*g+(G-1)*g2+A+P)*β",
+                    IDC_STATIC,15,316,193,8
+    GROUPBOX        "名称",IDC_STATIC,7,163,221,53
+    LTEXT           "接续间距(c2)",IDC_STATIC,17,295,49,8
+    LTEXT           "进楼(A)",IDC_STATIC,125,136,29,8
+    EDITTEXT        IDC_EDIT_CABLEINFO_LENFORPLUS,166,39,56,13,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    LTEXT           "加芯距离",IDC_STATIC,125,41,33,8
+END
+
+IDD_XHLCABLEINFO DIALOGEX 0, 0, 186, 167
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "主电缆长度"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "确定",IDOK,32,146,50,14
+    PUSHBUTTON      "取消",IDCANCEL,103,146,50,14
+    LTEXT           "过轨(G)",IDC_STATIC,16,36,27,8
+    LTEXT           "轨道间距(g2)",IDC_STATIC,19,112,46,8
+    EDITTEXT        IDC_EDIT_XHLCABLE_INTOXHL,91,13,51,14,ES_AUTOHSCROLL
+    LTEXT           "进楼(m)",IDC_STATIC,16,17,28,8
+    EDITTEXT        IDC_EDIT_XHLCABLE_CROSSGD,91,33,51,14,ES_AUTOHSCROLL
+    LTEXT           "过轨增缆(g1)",IDC_STATIC,19,96,46,8
+    EDITTEXT        IDC_EDIT_XHLCABLE_PERGD,91,91,51,14,ES_AUTOHSCROLL | 
+                    WS_DISABLED
+    EDITTEXT        IDC_EDIT_XHLCABLE_BETWEENGD,91,111,51,14,ES_AUTOHSCROLL | 
+                    WS_DISABLED
+    GROUPBOX        "参数",IDC_STATIC,7,75,172,51
+    LTEXT           "主电缆长度=m+G*g1+(G-1)*g2",IDC_STATIC,17,59,108,8
+END
+
+IDD_ZNCADOPTION DIALOGEX 0, 0, 474, 230
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "站内辅助设计参数设置"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "确定",IDOK,178,209,50,14
+    PUSHBUTTON      "取消",IDCANCEL,244,209,50,14
+    EDITTEXT        IDC_EDIT_ZNOPTION_CABLE_PERGD,70,34,42,12,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_ZNOPTION_CABLE_PERBOX,70,50,42,12,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_ZNOPTION_CABLE_PERBOXF,177,50,42,12,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_ZNOPTION_CABLE_PERBETWEENGD,177,34,42,12,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_ZNOPTION_CABLE_PERINTOXHL,177,19,42,12,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_ZNOPTION_CABLE_COEFFICIENT,70,19,42,12,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    LTEXT           "弯曲系数(β)",IDC_STATIC,19,21,42,8
+    LTEXT           "过轨增缆(g)",IDC_STATIC,19,37,42,8
+    LTEXT           "每盒增缆(b)",IDC_STATIC,19,53,42,8
+    LTEXT           "每接续增缆(c)",IDC_STATIC,120,52,50,8
+    LTEXT           "轨道间距(g2)",IDC_STATIC,120,37,46,8
+    LTEXT           "进楼增缆(a)",IDC_STATIC,120,22,42,8
+    EDITTEXT        IDC_EDIT_ZNOPTION_CABLE_PERBETWEENBOXF,70,67,42,12,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    LTEXT           "接续间距",IDC_STATIC,19,69,33,8
+    GROUPBOX        "电缆长度",IDC_STATIC,7,3,222,86
+    LTEXT           "合并多段线时视为同一点",IDC_STATIC,272,117,107,8
+    EDITTEXT        IDC_EDIT_ZNOPTION_TOL_CHECKGD,400,115,40,12,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    GROUPBOX        "允许误差",IDC_STATIC,244,99,222,84
+    CONTROL         "四线制",IDC_RADIO_ZNOPTION_4LINE,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,307,70,40,10
+    CONTROL         "二线制",IDC_RADIO_ZNOPTION_2LINE,"Button",
+                    BS_AUTORADIOBUTTON,386,70,40,10
+    GROUPBOX        "电码化",IDC_STATIC,244,50,222,39
+    LTEXT           "几线制",IDC_STATIC,259,68,25,8
+    CONTROL         "2芯",IDC_RADIO_ZNOPTION_DS2,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,90,118,28,10
+    CONTROL         "3芯",IDC_RADIO_ZNOPTION_DS3,"Button",BS_AUTORADIOBUTTON,
+                    137,118,28,10
+    LTEXT           "信号机灯丝",IDC_STATIC,20,120,41,8
+    LTEXT           "道岔缺口报警",IDC_STATIC,20,139,49,8
+    CONTROL         "2芯",IDC_RADIO_ZNOPTION_QK2,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,90,137,28,10
+    CONTROL         "4芯",IDC_RADIO_ZNOPTION_QK4,"Button",BS_AUTORADIOBUTTON,
+                    137,137,28,10
+    GROUPBOX        "电缆芯数",IDC_STATIC,7,99,222,84
+    LTEXT           "调车灯丝",IDC_STATIC,20,161,33,8
+    CONTROL         "无",IDC_RADIO_ZNOPTION_DCDS0,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,90,159,24,10
+    CONTROL         "2芯",IDC_RADIO_ZNOPTION_DCDS2,"Button",
+                    BS_AUTORADIOBUTTON,137,159,28,10
+    CONTROL         "3芯",IDC_RADIO_ZNOPTION_DCDS3,"Button",
+                    BS_AUTORADIOBUTTON,183,159,28,10
+    LTEXT           "插入信号机",IDC_STATIC,260,21,41,8
+    CONTROL         "带绝缘节",IDC_CHECK_ZNOPTION_XHJWITHJYJ,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,357,19,48,10
+    GROUPBOX        "图库面板",IDC_STATIC,244,3,222,37
+    LTEXT           "绝缘节信号机视为在轨道线上",IDC_STATIC,272,135,107,8
+    EDITTEXT        IDC_EDIT_ZNOPTION_TOL_CHECKJYJXHJ,400,133,40,13,
+                    ES_AUTOHSCROLL
+    LTEXT           "检查平面图",IDC_STATIC,259,119,8,43
+    LTEXT           "绝缘节信号机基点视为重合",IDC_STATIC,272,153,107,8
+    EDITTEXT        IDC_EDIT_ZNOPTION_TOL_CHECKJYJXHJOVERLAP,400,151,40,13,
+                    ES_AUTOHSCROLL
+END
+
+IDD_DISTTOXHL DIALOGEX 0, 0, 259, 410
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "距信号楼距离"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "确定",IDOK,68,389,50,14
+    PUSHBUTTON      "取消",IDCANCEL,144,389,50,14
+END
+
+IDD_DLPX DIALOGEX 0, 0, 187, 126
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "生成站内电缆配线"
+FONT 10, "新宋体", 0, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "开始",IDOK,42,104,50,14
+    PUSHBUTTON      "取消",IDCANCEL,95,104,50,14
+    LTEXT           "存放路径:",IDC_STATIC,8,14,36,8
+    EDITTEXT        IDC_EDIT_DLPX_SAVEPATH,51,12,104,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_BUTTON_DLPX_SELPATH,156,12,21,14
+    COMBOBOX        IDC_COMBO_MODE,51,36,123,40,CBS_DROPDOWNLIST | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "生成模式:",IDC_STATIC,8,37,36,8
+    LTEXT           "多图模式：遇到一个入楼端就生成一张dwg图\n单图模式：读入的所有网络生成在一张dwg图",
+                    IDC_STATIC,11,70,157,17
+    GROUPBOX        "",IDC_STATIC,8,58,165,34
+END
+
+IDD_DTCABLEINFO DIALOGEX 50, 20, 242, 398
+STYLE DS_SETFONT | DS_MODALFRAME | DS_CENTER | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+EXSTYLE WS_EX_ACCEPTFILES
+CAPTION "地铁电缆信息"
+FONT 10, "新宋体", 400, 0, 0x86
+BEGIN
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_ALL,59,22,56,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_DIST1,72,81,45,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_DIST2,188,81,41,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_ZT,72,98,45,13,ES_AUTOHSCROLL | NOT 
+                    WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_TOCABLE,188,98,41,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_GD,72,114,45,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_CABLENAME,59,213,56,13,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_BACKXINSHU,166,213,56,13,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_CABLETYPE,59,230,56,13,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_CABLENUM,166,230,56,13,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_WANQU2,80,269,34,13,ES_AUTOHSCROLL | 
+                    WS_DISABLED | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_DISTJIEXU,186,269,31,13,
+                    ES_AUTOHSCROLL | WS_DISABLED | NOT WS_BORDER,
+                    WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_ZUOTOU,80,285,34,13,ES_AUTOHSCROLL | 
+                    WS_DISABLED | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_ANZHUANG,186,285,31,13,
+                    ES_AUTOHSCROLL | WS_DISABLED | NOT WS_BORDER,
+                    WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_GUOGUI,80,303,34,13,ES_AUTOHSCROLL | 
+                    WS_DISABLED | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_PERSXJ,187,323,31,13,ES_AUTOHSCROLL | 
+                    WS_DISABLED | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_PERRENFM,80,322,34,13,
+                    ES_AUTOHSCROLL | WS_DISABLED | NOT WS_BORDER,
+                    WS_EX_STATICEDGE
+    DEFPUSHBUTTON   "确定",IDOK,63,373,50,14
+    PUSHBUTTON      "取消",IDCANCEL,138,373,50,14
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_LEN,59,39,56,13,ES_AUTOHSCROLL | 
+                    WS_DISABLED | NOT WS_BORDER | NOT WS_TABSTOP,
+                    WS_EX_STATICEDGE
+    LTEXT           "设备坐标(d1)",IDC_STATIC,17,81,49,8
+    LTEXT           "做头(Z)",IDC_STATIC,17,101,29,8
+    LTEXT           "设备室至孔(s)",IDC_STATIC,125,101,53,8
+    LTEXT           "弯曲系数(β)",IDC_STATIC,17,273,49,8
+    LTEXT           "过道(G)",IDC_STATIC,17,114,29,8
+    GROUPBOX        "参数",IDC_STATIC,7,259,228,104
+    LTEXT           "长度(L)",IDC_STATIC,17,41,29,8
+    LTEXT           "电缆名称",IDC_STATIC,17,215,33,8
+    LTEXT           "备用芯数",IDC_STATIC,125,215,33,8
+    GROUPBOX        "数据",IDC_STATIC,7,68,228,129
+    LTEXT           "电缆字串",IDC_STATIC,17,24,33,8
+    GROUPBOX        "汇总",IDC_STATIC,7,9,227,50
+    LTEXT           "电缆型号",IDC_STATIC,17,234,33,8
+    LTEXT           "原有信息",IDC_STATIC,125,25,33,8
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_OLD,166,22,56,13,ES_AUTOHSCROLL | 
+                    ES_READONLY | WS_DISABLED | NOT WS_BORDER,
+                    WS_EX_STATICEDGE
+    LTEXT           "电缆根数",IDC_STATIC,125,234,33,8
+    LTEXT           "做头(z)",IDC_STATIC,17,289,29,8
+    LTEXT           "过轨增缆(g)",IDC_STATIC,17,307,45,8
+    LTEXT           "每接续增缆(c)",IDC_STATIC,125,307,53,8
+    LTEXT           "电缆孔坐标(d2)",IDC_STATIC,125,81,57,8
+    LTEXT           "安装余量(a)",IDC_STATIC,125,289,45,8
+    LTEXT           "接续间距",IDC_STATIC,125,273,33,8
+    LTEXT           "电缆公式:L1=(|d1-d2|+Z*z+s+G*g+c+H*h+R*r2+a+x)",
+                    IDC_STATIC,15,347,185,8
+    GROUPBOX        "名称",IDC_STATIC,7,201,228,53
+    LTEXT           "人防门增缆(r2)",IDC_STATIC,17,326,57,8
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_LENFORPLUS,166,39,56,13,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    LTEXT           "是否备用",IDC_STATIC,125,41,33,8
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_CDLIAN,188,114,41,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    LTEXT           "长短链(c)",IDC_STATIC,125,114,37,8
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_ANZHU,72,149,45,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    LTEXT           "安装余量(a)",IDC_STATIC,17,149,45,8
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_LEN1,72,166,45,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    LTEXT           "长度(L1)",IDC_STATIC,17,166,33,8
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_LEN2,188,166,41,13,ES_AUTOHSCROLL | 
+                    WS_DISABLED | NOT WS_BORDER,WS_EX_STATICEDGE
+    LTEXT           "接续后长度(L2)",IDC_STATIC,125,166,57,8
+    LTEXT           "弯曲系数(β)",IDC_STATIC,17,185,49,8
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_LEN3,188,185,41,13,ES_AUTOHSCROLL | 
+                    WS_DISABLED | NOT WS_BORDER,WS_EX_STATICEDGE
+    LTEXT           "取整长度(L3)",IDC_STATIC,125,185,49,8
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_WANQU1,72,185,45,13,ES_AUTOHSCROLL | 
+                    WS_DISABLED | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_XIUZ,188,149,41,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    LTEXT           "修正量(x)",IDC_STATIC,125,149,37,8
+    LTEXT           "上下架增缆(h)",IDC_STATIC,125,325,53,8
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_PERJIEXU,187,304,31,13,
+                    ES_AUTOHSCROLL | WS_DISABLED | NOT WS_BORDER,
+                    WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_SX,72,133,45,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    LTEXT           "上下架(H)",IDC_STATIC,17,133,37,8
+    EDITTEXT        IDC_EDIT_DTCABLEINFO_RFM,188,133,41,13,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    LTEXT           "人防门(R)",IDC_STATIC,125,133,37,8
+END
+
+IDD_DTMAINCABLEINFO DIALOGEX 0, 0, 202, 217
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "地铁主电缆"
+FONT 10, "宋体", 400, 0, 0x0
+BEGIN
+    GROUPBOX        "设备类型：",IDC_STATIC,13,17,173,79
+    CONTROL         "信号机",IDC_DEVICE_RADIO1,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,22,31,38,10
+    CONTROL         "计轴",IDC_DEVICE_RADIO2,"Button",BS_AUTORADIOBUTTON,22,
+                    49,31,10
+    CONTROL         "应答器",IDC_DEVICE_RADIO3,"Button",BS_AUTORADIOBUTTON,
+                    22,66,38,10
+    CONTROL         "AP",IDC_DEVICE_RADIO4,"Button",BS_AUTORADIOBUTTON,22,83,
+                    24,10
+    CONTROL         "转辙机",IDC_DEVICE_RADIO5,"Button",BS_AUTORADIOBUTTON,
+                    107,31,38,10
+    CONTROL         "信号设备室",IDC_DEVICE_RADIO6,"Button",
+                    BS_AUTORADIOBUTTON,106,48,53,10
+    CONTROL         "EMP",IDC_DEVICE_RADIO7,"Button",BS_AUTORADIOBUTTON,107,
+                    66,28,10
+    CONTROL         "其他",IDC_DEVICE_RADIO8,"Button",BS_AUTORADIOBUTTON,107,
+                    83,31,10
+    CONTROL         "红",IDC_COLOR_RADIO9,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,29,128,23,10
+    CONTROL         "黄",IDC_COLOR_RADIO10,"Button",BS_AUTORADIOBUTTON,73,
+                    130,23,10
+    CONTROL         "绿",IDC_COLOR_RADIO11,"Button",BS_AUTORADIOBUTTON,119,
+                    130,23,10
+    CONTROL         "青",IDC_COLOR_RADIO12,"Button",BS_AUTORADIOBUTTON,159,
+                    130,23,10
+    CONTROL         "蓝",IDC_COLOR_RADIO13,"Button",BS_AUTORADIOBUTTON,27,
+                    157,23,10
+    CONTROL         "紫",IDC_COLOR_RADIO14,"Button",BS_AUTORADIOBUTTON,73,
+                    157,23,10
+    CONTROL         "白",IDC_COLOR_RADIO15,"Button",BS_AUTORADIOBUTTON,119,
+                    157,23,10
+    CONTROL         "灰",IDC_COLOR_RADIO16,"Button",BS_AUTORADIOBUTTON,159,
+                    157,23,10
+    GROUPBOX        "主电缆颜色",IDC_STATIC,13,110,173,75
+    PUSHBUTTON      "确定",IDC_BUTTON1,45,191,50,14
+    PUSHBUTTON      "取消",IDC_BUTTON2,119,191,50,14
+END
+
+IDD_DTOPTION DIALOGEX 0, 0, 474, 230
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "地铁辅助设计参数设置"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "确定",IDOK,178,209,50,14
+    PUSHBUTTON      "取消",IDCANCEL,244,209,50,14
+    EDITTEXT        IDC_EDIT_DTOPTION_ZT,66,34,42,12,ES_AUTOHSCROLL | NOT 
+                    WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTOPTION_GUOGUIPER,66,50,42,12,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_ZNOPTION_CABLE_PERBOXF,177,50,42,12,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTOPTION_AZYULIANG,177,34,42,12,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTOPTION_RFMPER,177,19,42,12,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT_DTOPTION_WQRATIO,66,19,42,12,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    LTEXT           "弯曲系数(β)",IDC_STATIC,19,21,42,8
+    LTEXT           "做头(z)",IDC_STATIC,19,37,26,8
+    LTEXT           "过轨增缆(g)",IDC_STATIC,19,53,42,8
+    LTEXT           "每接续增缆(c)",IDC_STATIC,117,52,50,8
+    LTEXT           "安装余量(a)",IDC_STATIC,117,37,42,8
+    LTEXT           "人防门增缆(r2)",IDC_STATIC,117,22,53,8
+    EDITTEXT        IDC_EDIT_DTOPTION_DISTJIEXU,66,67,42,12,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+    LTEXT           "接续间距",IDC_STATIC,19,67,33,8
+    GROUPBOX        "电缆长度",IDC_STATIC,7,3,222,86
+    LTEXT           "合并多段线时视为同一点",IDC_STATIC,272,117,107,8
+    EDITTEXT        IDC_EDIT_ZNOPTION_TOL_CHECKGD,400,115,40,12,
+                    ES_AUTOHSCROLL | NOT WS_BORDER,WS_EX_STATICEDGE
+    GROUPBOX        "允许误差",IDC_STATIC,244,99,222,84
+    CONTROL         "四线制",IDC_RADIO_ZNOPTION_4LINE,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,307,70,40,10
+    CONTROL         "二线制",IDC_RADIO_ZNOPTION_2LINE,"Button",
+                    BS_AUTORADIOBUTTON,386,70,40,10
+    GROUPBOX        "电码化",IDC_STATIC,244,50,222,39
+    LTEXT           "几线制",IDC_STATIC,259,68,25,8
+    CONTROL         "2芯",IDC_RADIO_ZNOPTION_DS2,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,90,118,28,10
+    CONTROL         "3芯",IDC_RADIO_ZNOPTION_DS3,"Button",BS_AUTORADIOBUTTON,
+                    137,118,28,10
+    LTEXT           "信号机灯丝",IDC_STATIC,20,120,41,8
+    LTEXT           "道岔缺口报警",IDC_STATIC,20,139,49,8
+    CONTROL         "2芯",IDC_RADIO_ZNOPTION_QK2,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,90,137,28,10
+    CONTROL         "4芯",IDC_RADIO_ZNOPTION_QK4,"Button",BS_AUTORADIOBUTTON,
+                    137,137,28,10
+    GROUPBOX        "电缆芯数",IDC_STATIC,7,99,222,84
+    LTEXT           "调车灯丝",IDC_STATIC,20,161,33,8
+    CONTROL         "无",IDC_RADIO_ZNOPTION_DCDS0,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,90,159,24,10
+    CONTROL         "2芯",IDC_RADIO_ZNOPTION_DCDS2,"Button",
+                    BS_AUTORADIOBUTTON,137,159,28,10
+    CONTROL         "3芯",IDC_RADIO_ZNOPTION_DCDS3,"Button",
+                    BS_AUTORADIOBUTTON,183,159,28,10
+    LTEXT           "插入信号机",IDC_STATIC,260,21,41,8
+    CONTROL         "带绝缘节",IDC_CHECK_ZNOPTION_XHJWITHJYJ,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,357,19,48,10
+    GROUPBOX        "图库面板",IDC_STATIC,244,3,222,37
+    LTEXT           "绝缘节信号机视为在轨道线上",IDC_STATIC,272,135,107,8
+    EDITTEXT        IDC_EDIT_ZNOPTION_TOL_CHECKJYJXHJ,400,133,40,13,
+                    ES_AUTOHSCROLL
+    LTEXT           "检查平面图",IDC_STATIC,259,119,8,43
+    LTEXT           "绝缘节信号机基点视为重合",IDC_STATIC,272,153,107,8
+    EDITTEXT        IDC_EDIT_ZNOPTION_TOL_CHECKJYJXHJOVERLAP,400,151,40,13,
+                    ES_AUTOHSCROLL
+    LTEXT           "上下架增缆(h)",IDC_STATIC8,117,68,50,8
+    EDITTEXT        IDC_EDIT_DTOPTION_SXJPER,177,67,42,12,ES_AUTOHSCROLL | 
+                    NOT WS_BORDER,WS_EX_STATICEDGE
+END
+
+IDD_ADDBOX DIALOGEX 0, 0, 257, 180
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "增加箱盒"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "确定",IDOK,50,149,50,14
+    PUSHBUTTON      "取消",IDCANCEL,146,149,50,14
+    CONTROL         "矩形（3x5mm）",IDC_RADIO1,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,31,28,71,10
+    CONTROL         "圆形(r=2.5mm)",IDC_RADIO2,"Button",BS_AUTORADIOBUTTON,
+                    140,30,67,10
+    EDITTEXT        IDC_EDIT1,62,71,57,13,ES_AUTOHSCROLL
+    CONTROL         "XB1",IDC_RADIO3,"Button",BS_AUTORADIOBUTTON | WS_GROUP,
+                    32,95,33,10
+    CONTROL         "XB2",IDC_RADIO4,"Button",BS_AUTORADIOBUTTON,32,118,33,
+                    10
+    CONTROL         "KAD",IDC_RADIO5,"Button",BS_AUTORADIOBUTTON,78,95,33,10
+    CONTROL         "TCB",IDC_RADIO6,"Button",BS_AUTORADIOBUTTON,78,118,33,
+                    10
+    CONTROL         "FXX",IDC_RADIO7,"Button",BS_AUTORADIOBUTTON,124,95,33,
+                    10
+    CONTROL         "TWC",IDC_RADIO8,"Button",BS_AUTORADIOBUTTON,124,118,33,
+                    10
+    CONTROL         "4",IDC_RADIO9,"Button",BS_AUTORADIOBUTTON,169,95,33,10
+    CONTROL         "7",IDC_RADIO10,"Button",BS_AUTORADIOBUTTON,169,118,33,
+                    10
+    CONTROL         "12",IDC_RADIO11,"Button",BS_AUTORADIOBUTTON,213,95,33,
+                    10
+    CONTROL         "24",IDC_RADIO12,"Button",BS_AUTORADIOBUTTON,213,118,33,
+                    10
+    GROUPBOX        "",IDC_STATIC,7,7,243,39
+    GROUPBOX        "",IDC_STATIC,7,60,243,73
+    CTEXT           "箱盒名称：",IDC_STATIC,14,71,44,13
+    CTEXT           "箱盒形状：",IDC_STATIC,14,15,44,13
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_MOD_ENT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 157
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 250
+    END
+
+    IDD_CABLEINFO, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 430
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 355
+    END
+
+    IDD_XHLCABLEINFO, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 179
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 160
+    END
+
+    IDD_ZNCADOPTION, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 467
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 223
+    END
+
+    IDD_DISTTOXHL, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 252
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 403
+    END
+
+    IDD_DLPX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 180
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 119
+    END
+
+    IDD_DTCABLEINFO, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 239
+        TOPMARGIN, 9
+        BOTTOMMARGIN, 390
+    END
+
+    IDD_DTMAINCABLEINFO, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 195
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 210
+    END
+
+    IDD_DTOPTION, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 467
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 223
+    END
+
+    IDD_ADDBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 250
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 173
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_CHECKMARK           BITMAP                  "res\\bitmap1.bmp"
+IDB_DUNDASLOGO          BITMAP                  "res\\bitmap2.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_DLPX DLGINIT
+BEGIN
+    IDC_COMBO_MODE, 0x403, 9, 0
+0xe0b6, 0xbccd, 0xa3c4, 0xbdca, "\000" 
+    IDC_COMBO_MODE, 0x403, 9, 0
+0xa5b5, 0xbccd, 0xa3c4, 0xbdca, "\000" 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_PROJNAME            "zncad"
+    IDS_BFF_TITLE           "选择目录"
+    IDS_BUTTON_DWGTOGRID    "图到面板"
+    IDS_BUTTON_APPLYTODWG   "面板到图"
+    IDS_BUTTON_TOXLS        "导出EXCEL"
+    IDS_BUTTON_FROMXLS      "导入EXCEL"
+END
+
+#endif    // 中文（中华人民共和国） resources
+/////////////////////////////////////////////////////////////////////////////
+
+
